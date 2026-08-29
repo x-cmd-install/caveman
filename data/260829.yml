@@ -1,0 +1,63 @@
+about:
+  description: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+  license: NOASSERTION
+  homepage: https://docs.caveman.so/docs/quickstart
+  head: 17f9f2e
+  archived: false
+  latestVersion: v2.3.1
+  collectedAt: 2026-08-29T07:07:04Z
+timeline:
+  created: 2026-04-04
+  lastCommit: 2026-08-25
+  lastRelease: 2026-08-23
+popularity:
+  star: 101668
+  watcher: 238
+  fork: 5910
+  release: 27
+  contributor: 42
+  pullRequest: 425
+  issue: 373
+language:
+  Go: 4675536
+  JavaScript: 2376039
+  TypeScript: 1745083
+  Python: 566371
+  Shell: 26153
+  PowerShell: 25240
+  HTML: 19029
+  CSS: 8759
+totalLine: 9442210
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 11
+    mergedPR: 7
+    openPR: 53
+    closedIssue: 24
+    openIssue: 45
+    commit: 137
+  last90d:
+    since: 2026-05-31
+    release: 13
+    mergedPR: 20
+    openPR: 113
+    closedIssue: 82
+    openIssue: 108
+    commit: 193
+  last180d:
+    since: 2026-03-02
+    release: 27
+    mergedPR: 60
+    openPR: 196
+    closedIssue: 189
+    openIssue: 184
+    commit: 336
+  last360d:
+    since: 2025-09-03
+    release: 27
+    mergedPR: 60
+    openPR: 196
+    closedIssue: 189
+    openIssue: 184
+    commit: 336
