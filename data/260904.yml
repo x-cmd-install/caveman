@@ -7,13 +7,13 @@ about:
   head: 367fdb7
   archived: false
   latestVersion: bin-v1.1.6
-  collectedAt: 2026-09-04T19:36:50Z
+  collectedAt: 2026-09-04T20:53:47Z
 timeline:
   created: 2026-04-04
   lastCommit: 2026-09-04
   lastRelease: 2026-09-04
 popularity:
-  star: 103502
+  star: 103525
   watcher: 243
   fork: 6007
   release: 33
@@ -87,5 +87,83 @@ total:
   openIssue: 59
   commit: 550
 ---
+path: /home/runner/.x-repo/github.com/JuliusBrussee/caveman
+collectedAt: 2026-09-04T20:53:48Z
+loc:
+  Go:
+    code: 102903
+    comments: 11356
+    blanks: 7829
+    files: 497
+  JavaScript:
+    code: 55212
+    comments: 4365
+    blanks: 4364
+    files: 276
+  TypeScript:
+    code: 38796
+    comments: 3760
+    blanks: 2080
+    files: 58
+  Json:
+    code: 24559
+    comments: 0
+    blanks: 1
+    files: 140
+  Python:
+    code: 12653
+    comments: 761
+    blanks: 2249
+    files: 49
+  Yaml:
+    code: 11608
+    comments: 579
+    blanks: 376
+    files: 20
+  Sh:
+    code: 578
+    comments: 144
+    blanks: 76
+    files: 6
+  PowerShell:
+    code: 512
+    comments: 118
+    blanks: 64
+    files: 5
+  Svg:
+    code: 431
+    comments: 24
+    blanks: 24
+    files: 13
+  Css:
+    code: 362
+    comments: 15
+    blanks: 13
+    files: 2
+  Html:
+    code: 262
+    comments: 1
+    blanks: 11
+    files: 8
+  Toml:
+    code: 38
+    comments: 2
+    blanks: 5
+    files: 6
+  Markdown:
+    code: 0
+    comments: 9338
+    blanks: 3070
+    files: 161
+  Text:
+    code: 0
+    comments: 610
+    blanks: 92
+    files: 10
+total:
+  code: 248819
+  comments: 31113
+  blanks: 20303
+  files: 1251
 ---
 
