@@ -1,23 +1,25 @@
 about:
-  description: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+  description:
+  |
+    🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
   license: NOASSERTION
   homepage: https://docs.caveman.so/docs/quickstart
   head: 367fdb7
   archived: false
   latestVersion: bin-v1.1.6
-  collectedAt: 2026-09-04T04:37:17Z
+  collectedAt: 2026-09-04T19:36:50Z
 timeline:
   created: 2026-04-04
   lastCommit: 2026-09-04
   lastRelease: 2026-09-04
 popularity:
-  star: 103179
-  watcher: 242
-  fork: 5996
+  star: 103502
+  watcher: 243
+  fork: 6007
   release: 33
   contributor: 53
-  pullRequest: 427
-  issue: 399
+  pullRequest: 515
+  issue: 400
 language:
   Go: 4317998
   JavaScript: 2666441
@@ -27,37 +29,63 @@ language:
   PowerShell: 27354
   HTML: 19029
   CSS: 8893
-totalLine: 9602780
+totalBytes: 9602780
 recent:
   last30d:
     since: 2026-08-05
     release: 16
     mergedPR: 27
-    openPR: 7
+    openPR: 14
     closedIssue: 73
-    openIssue: 10
+    openIssue: 11
     commit: 262
+  last60d:
+    since: 2026-07-06
+    release: 17
+    mergedPR: 30
+    openPR: 31
+    closedIssue: 116
+    openIssue: 25
+    commit: 275
   last90d:
     since: 2026-06-06
     release: 19
     mergedPR: 43
-    openPR: 33
+    openPR: 40
     closedIssue: 170
-    openIssue: 35
+    openIssue: 36
     commit: 315
   last180d:
     since: 2026-03-08
     release: 33
     mergedPR: 83
-    openPR: 41
+    openPR: 48
     closedIssue: 341
-    openIssue: 58
+    openIssue: 59
     commit: 468
   last360d:
     since: 2025-09-09
     release: 33
     mergedPR: 83
-    openPR: 41
+    openPR: 48
     closedIssue: 341
-    openIssue: 58
+    openIssue: 59
     commit: 468
+  last720d:
+    since: 2024-09-14
+    release: 33
+    mergedPR: 83
+    openPR: 48
+    closedIssue: 341
+    openIssue: 59
+    commit: 550
+total:
+  release: 33
+  mergedPR: 83
+  openPR: 48
+  closedIssue: 341
+  openIssue: 59
+  commit: 550
+---
+---
+
