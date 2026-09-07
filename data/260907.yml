@@ -1,0 +1,201 @@
+about:
+  description: "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
+  license: NOASSERTION
+  homepage: https://docs.caveman.so/docs/quickstart
+  head: 0dd7ad6
+  archived: false
+  latestVersion: "bin-v1.1.6"
+  collectedAt: 2026-09-07T05:27:36Z
+timeline:
+  created: 2026-04-04
+  lastCommit: 2026-09-06
+  lastRelease: 2026-09-04
+popularity:
+  star: 103974
+  watcher: 243
+  fork: 6026
+  release: 33
+  contributor: 56
+  pullRequest: 526
+  issue: 412
+language:
+  Go: 4319031
+  JavaScript: 2746651
+  TypeScript: 1893537
+  Python: 649298
+  Shell: 31929
+  PowerShell: 27354
+  HTML: 19029
+  CSS: 8893
+totalBytes: 9695722
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 16
+    mergedPR: 29
+    openPR: 18
+    closedIssue: 75
+    openIssue: 16
+    commit: 242
+  last60d:
+    since: 2026-07-09
+    release: 17
+    mergedPR: 32
+    openPR: 34
+    closedIssue: 118
+    openIssue: 28
+    commit: 279
+  last90d:
+    since: 2026-06-09
+    release: 19
+    mergedPR: 44
+    openPR: 44
+    closedIssue: 178
+    openIssue: 40
+    commit: 306
+  last180d:
+    since: 2026-03-11
+    release: 33
+    mergedPR: 85
+    openPR: 52
+    closedIssue: 352
+    openIssue: 60
+    commit: 472
+  last360d:
+    since: 2025-09-12
+    release: 33
+    mergedPR: 85
+    openPR: 52
+    closedIssue: 352
+    openIssue: 60
+    commit: 472
+  last720d:
+    since: 2024-09-17
+    release: 33
+    mergedPR: 85
+    openPR: 52
+    closedIssue: 352
+    openIssue: 60
+    commit: 554
+total:
+  release: 33
+  mergedPR: 85
+  openPR: 52
+  closedIssue: 352
+  openIssue: 60
+  commit: 554
+---
+path: /home/runner/.x-repo/github.com/JuliusBrussee/caveman
+collectedAt: 2026-09-07T05:27:38Z
+loc:
+  Go:
+    code: 102920
+    comments: 11360
+    blanks: 7830
+    files: 497
+  JavaScript:
+    code: 56353
+    comments: 4743
+    blanks: 4486
+    files: 281
+  TypeScript:
+    code: 38796
+    comments: 3760
+    blanks: 2080
+    files: 58
+  Json:
+    code: 24771
+    comments: 0
+    blanks: 1
+    files: 141
+  Python:
+    code: 12813
+    comments: 802
+    blanks: 2268
+    files: 49
+  Yaml:
+    code: 11608
+    comments: 579
+    blanks: 376
+    files: 20
+  Sh:
+    code: 578
+    comments: 144
+    blanks: 76
+    files: 6
+  PowerShell:
+    code: 512
+    comments: 118
+    blanks: 64
+    files: 5
+  Svg:
+    code: 431
+    comments: 24
+    blanks: 24
+    files: 13
+  Css:
+    code: 362
+    comments: 15
+    blanks: 13
+    files: 2
+  Html:
+    code: 262
+    comments: 1
+    blanks: 11
+    files: 8
+  Toml:
+    code: 38
+    comments: 2
+    blanks: 5
+    files: 6
+  Markdown:
+    code: 0
+    comments: 9338
+    blanks: 3070
+    files: 161
+  Text:
+    code: 0
+    comments: 610
+    blanks: 92
+    files: 10
+total:
+  code: 250349
+  comments: 31536
+  blanks: 20445
+  files: 1257
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:27:39+00:00
+  platform:
+    darwin/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    darwin/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
