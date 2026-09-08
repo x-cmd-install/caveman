@@ -5,15 +5,15 @@ about:
   head: 15581d1
   archived: false
   latestVersion: "bin-v1.1.6"
-  collectedAt: 2026-09-08T02:33:30Z
+  collectedAt: 2026-09-08T05:35:04Z
 timeline:
   created: 2026-04-04
   lastCommit: 2026-09-07
   lastRelease: 2026-09-04
 popularity:
-  star: 104172
+  star: 104195
   watcher: 245
-  fork: 6045
+  fork: 6046
   release: 33
   contributor: 57
   pullRequest: 529
@@ -86,7 +86,7 @@ total:
   commit: 556
 ---
 path: /home/runner/.x-repo/github.com/JuliusBrussee/caveman
-collectedAt: 2026-09-08T02:33:31Z
+collectedAt: 2026-09-08T05:35:07Z
 loc:
   Go:
     code: 103179
