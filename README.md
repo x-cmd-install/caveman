@@ -7,7 +7,7 @@
 - **Latest release**: `bin-v1.1.6` (2026-09-04)
 - **Last commit**: 2026-09-07
 - **License**: NOASSERTION
-- **Stars**: 104390 · **Forks**: 6055 · **Open issues**: 416 · **Contributors**: 57
+- **Stars**: 104539 · **Forks**: 6061 · **Open issues**: 417 · **Contributors**: 57
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/caveman> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:30:47Z._
+_Last regenerated: 2026-09-09T19:49:07Z._
