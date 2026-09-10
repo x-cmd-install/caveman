@@ -7,7 +7,7 @@ about:
   latestVersion: "bin-v1.1.6"
   latestRelease: "bin-v1.1.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:34:42Z
+  collectedAt: 2026-09-10T23:14:09Z
 timeline:
   created: 2026-04-04
   lastCommit: 2026-09-07
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 
 popularity:
-  star: 104726
+  star: 104739
   watcher: 239
-  fork: 6073
+  fork: 6072
   release: 33
   contributor: 57
   pullRequest: 538
@@ -90,7 +90,7 @@ total:
   commit: 556
 ---
 path: /home/runner/.x-repo/github.com/JuliusBrussee/caveman
-collectedAt: 2026-09-10T20:34:44Z
+collectedAt: 2026-09-10T23:14:11Z
 loc:
   Go:
     code: 103179
