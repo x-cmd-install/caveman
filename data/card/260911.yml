@@ -7,7 +7,7 @@ about:
   latestVersion: "bin-v1.1.6"
   latestRelease: "bin-v1.1.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:39:39Z
+  collectedAt: 2026-09-11T19:21:52Z
 timeline:
   created: 2026-04-04
   lastCommit: 2026-09-07
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 
 popularity:
-  star: 104783
-  watcher: 238
-  fork: 6075
+  star: 104997
+  watcher: 239
+  fork: 6079
   release: 33
   contributor: 57
-  pullRequest: 539
-  issue: 421
+  pullRequest: 540
+  issue: 422
 language:
   Go: 4332720
   JavaScript: 2747298
@@ -37,60 +37,60 @@ recent:
     since: 2026-08-12
     release: 14
     mergedPR: 25
-    openPR: 23
+    openPR: 24
     closedIssue: 71
-    openIssue: 22
+    openIssue: 23
     commit: 244
   last60d:
     since: 2026-07-13
     release: 17
     mergedPR: 33
-    openPR: 39
+    openPR: 40
     closedIssue: 114
-    openIssue: 33
+    openIssue: 34
     commit: 281
   last90d:
     since: 2026-06-13
     release: 18
     mergedPR: 44
-    openPR: 51
+    openPR: 52
     closedIssue: 174
-    openIssue: 42
+    openIssue: 43
     commit: 308
   last180d:
     since: 2026-03-15
     release: 33
     mergedPR: 86
-    openPR: 59
-    closedIssue: 357
+    openPR: 60
+    closedIssue: 358
     openIssue: 64
     commit: 474
   last360d:
     since: 2025-09-16
     release: 33
     mergedPR: 86
-    openPR: 59
-    closedIssue: 357
+    openPR: 60
+    closedIssue: 358
     openIssue: 64
     commit: 474
   last720d:
     since: 2024-09-21
     release: 33
     mergedPR: 86
-    openPR: 59
-    closedIssue: 357
+    openPR: 60
+    closedIssue: 358
     openIssue: 64
     commit: 556
 total:
   release: 33
   mergedPR: 86
-  openPR: 59
-  closedIssue: 357
+  openPR: 60
+  closedIssue: 358
   openIssue: 64
   commit: 556
 ---
 path: /home/runner/.x-repo/github.com/JuliusBrussee/caveman
-collectedAt: 2026-09-11T05:39:41Z
+collectedAt: 2026-09-11T19:21:54Z
 loc:
   Go:
     code: 103179
