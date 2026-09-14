@@ -38,22 +38,22 @@ Total: **249,726** lines of code across **1026** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 105,265 · **Forks**: 6,096 · **Open issues**: 423 · **Contributors**: 57
+- **Stars**: 105,424 · **Forks**: 6,107 · **Open issues**: 426 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 86 · **Open PRs**: 61 · **Closed issues**: 358 · **Open issues**: 65 · **Commits**: 556
+- **Releases**: 33 · **Merged PRs**: 86 · **Open PRs**: 69 · **Closed issues**: 358 · **Open issues**: 68 · **Commits**: 556
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 14 | 25 | 24 | 67 | 24 | 244 |
-| last60d | 2026-07-15 | 17 | 33 | 41 | 111 | 34 | 281 |
-| 90d | 2026-06-15 | 18 | 42 | 53 | 171 | 44 | 308 |
-| last180d | 2026-03-17 | 33 | 86 | 61 | 358 | 65 | 474 |
-| 360d | 2025-09-18 | 33 | 86 | 61 | 358 | 65 | 474 |
-| last720d | 2024-09-23 | 33 | 86 | 61 | 358 | 65 | 556 |
+| 30d | 2026-08-15 | 14 | 25 | 32 | 66 | 27 | 161 |
+| last60d | 2026-07-16 | 17 | 33 | 48 | 109 | 37 | 275 |
+| 90d | 2026-06-16 | 18 | 42 | 61 | 170 | 47 | 308 |
+| last180d | 2026-03-18 | 33 | 86 | 69 | 358 | 68 | 474 |
+| 360d | 2025-09-19 | 33 | 86 | 69 | 358 | 68 | 474 |
+| last720d | 2024-09-24 | 33 | 86 | 69 | 358 | 68 | 556 |
 
 ## Release assets
 
@@ -98,10 +98,6 @@ Total: **249,726** lines of code across **1026** files in the top 5 languages.
 | [checksums.txt](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/checksums.txt) | 3.2 KiB | `other` |
 | [checksums.txt.keysig](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/checksums.txt.keysig) | 291 B | `other` |
 
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/caveman). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `caveman` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -111,4 +107,4 @@ Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:36:58Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:47:23Z._

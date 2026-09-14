@@ -38,22 +38,22 @@ x install caveman
 
 ## 流行度
 
-- **Star**: 105,265 · **Fork**: 6,096 · **开放 issue**: 423 · **贡献者**: 57
+- **Star**: 105,424 · **Fork**: 6,107 · **开放 issue**: 426 · **贡献者**: 57
 
 ## 累计统计
 
-- **发布数**: 33 · **已合并 PR**: 86 · **开放 PR**: 61 · **已关闭 issue**: 358 · **开放 issue**: 65 · **提交数**: 556
+- **发布数**: 33 · **已合并 PR**: 86 · **开放 PR**: 69 · **已关闭 issue**: 358 · **开放 issue**: 68 · **提交数**: 556
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 14 | 25 | 24 | 67 | 24 | 244 |
-| last60d | 2026-07-15 | 17 | 33 | 41 | 111 | 34 | 281 |
-| 90d | 2026-06-15 | 18 | 42 | 53 | 171 | 44 | 308 |
-| last180d | 2026-03-17 | 33 | 86 | 61 | 358 | 65 | 474 |
-| 360d | 2025-09-18 | 33 | 86 | 61 | 358 | 65 | 474 |
-| last720d | 2024-09-23 | 33 | 86 | 61 | 358 | 65 | 556 |
+| 30d | 2026-08-15 | 14 | 25 | 32 | 66 | 27 | 161 |
+| last60d | 2026-07-16 | 17 | 33 | 48 | 109 | 37 | 275 |
+| 90d | 2026-06-16 | 18 | 42 | 61 | 170 | 47 | 308 |
+| last180d | 2026-03-18 | 33 | 86 | 69 | 358 | 68 | 474 |
+| 360d | 2025-09-19 | 33 | 86 | 69 | 358 | 68 | 474 |
+| last720d | 2024-09-24 | 33 | 86 | 69 | 358 | 68 | 556 |
 
 ## Release 资产
 
@@ -98,10 +98,6 @@ x install caveman
 | [checksums.txt](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/checksums.txt) | 3.2 KiB | `other` |
 | [checksums.txt.keysig](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/checksums.txt.keysig) | 291 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/caveman) 上共有 **2** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
-
 ## 改进这些数据
 
 caveman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `caveman` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -111,4 +107,4 @@ caveman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:36:59Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:47:24Z._
