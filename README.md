@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
 ![caveman](https://repo.x-cmd.io/caveman.svg)
 
@@ -14,15 +14,15 @@ x install caveman
 
 ## Code insight
 
-Total: **249,726** lines of code across **1026** files in the top 5 languages.
+Total: **278,000** lines of code across **1197** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 103,179 | 11,426 | 7,841 | 497 |
-| JavaScript | 56,366 | 4,743 | 4,487 | 281 |
-| TypeScript | 38,796 | 3,760 | 2,080 | 58 |
-| Json | 24,771 | 0 | 1 | 141 |
-| Python | 12,823 | 810 | 2,269 | 49 |
+| Go | 116,883 | 12,683 | 8,604 | 565 |
+| JavaScript | 61,418 | 5,004 | 4,804 | 316 |
+| TypeScript | 41,629 | 4,030 | 2,234 | 81 |
+| Json | 26,795 | 0 | 1 | 155 |
+| Python | 16,459 | 843 | 2,808 | 80 |
 
 ## Source
 
@@ -32,71 +32,27 @@ Total: **249,726** lines of code across **1026** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `bin-v1.1.6` (2026-09-04)
-- **Last commit**: 2026-09-07
-- **Assets in release**: 38
+- **Latest**: `v2.7.0` (2026-09-15)
+- **Last commit**: 2026-09-15
 
 ## Popularity
 
-- **Stars**: 105,424 · **Forks**: 6,107 · **Open issues**: 426 · **Contributors**: 57
+- **Stars**: 105,626 · **Forks**: 6,113 · **Open issues**: 429 · **Contributors**: 64
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 86 · **Open PRs**: 69 · **Closed issues**: 358 · **Open issues**: 68 · **Commits**: 556
+- **Releases**: 35 · **Merged PRs**: 87 · **Open PRs**: 47 · **Closed issues**: 368 · **Open issues**: 61 · **Commits**: 671
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 14 | 25 | 32 | 66 | 27 | 161 |
-| last60d | 2026-07-16 | 17 | 33 | 48 | 109 | 37 | 275 |
-| 90d | 2026-06-16 | 18 | 42 | 61 | 170 | 47 | 308 |
-| last180d | 2026-03-18 | 33 | 86 | 69 | 358 | 68 | 474 |
-| 360d | 2025-09-19 | 33 | 86 | 69 | 358 | 68 | 474 |
-| last720d | 2024-09-24 | 33 | 86 | 69 | 358 | 68 | 556 |
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [caveman-browse_darwin_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-browse_darwin_amd64) | 33.5 MiB | `native/darwin/x64` |
-| [caveman-browse_darwin_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-browse_darwin_arm64) | 32.7 MiB | `native/darwin/arm64` |
-| [caveman-browse_linux_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-browse_linux_amd64) | 30.8 MiB | `native/linux/x64` |
-| [caveman-browse_linux_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-browse_linux_arm64) | 29.7 MiB | `native/linux/arm64` |
-| [caveman-browse_win32_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-browse_win32_amd64) | 32.0 MiB | `native/win/x64` |
-| [caveman-browse_win32_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-browse_win32_arm64) | 30.7 MiB | `native/win/arm64` |
-| [caveman-engine_darwin_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-engine_darwin_amd64) | 27.8 MiB | `native/darwin/x64` |
-| [caveman-engine_darwin_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-engine_darwin_arm64) | 27.4 MiB | `native/darwin/arm64` |
-| [caveman-engine_linux_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-engine_linux_amd64) | 25.3 MiB | `native/linux/x64` |
-| [caveman-engine_linux_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-engine_linux_arm64) | 24.6 MiB | `native/linux/arm64` |
-| [caveman-engine_win32_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-engine_win32_amd64) | 26.4 MiB | `native/win/x64` |
-| [caveman-engine_win32_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-engine_win32_arm64) | 25.6 MiB | `native/win/arm64` |
-| [caveman-mcp_darwin_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-mcp_darwin_amd64) | 25.8 MiB | `native/darwin/x64` |
-| [caveman-mcp_darwin_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-mcp_darwin_arm64) | 25.5 MiB | `native/darwin/arm64` |
-| [caveman-mcp_linux_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-mcp_linux_amd64) | 23.3 MiB | `native/linux/x64` |
-| [caveman-mcp_linux_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-mcp_linux_arm64) | 22.8 MiB | `native/linux/arm64` |
-| [caveman-mcp_win32_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-mcp_win32_amd64) | 24.5 MiB | `native/win/x64` |
-| [caveman-mcp_win32_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-mcp_win32_arm64) | 23.8 MiB | `native/win/arm64` |
-| [caveman-proxy_darwin_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-proxy_darwin_amd64) | 39.2 MiB | `native/darwin/x64` |
-| [caveman-proxy_darwin_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-proxy_darwin_arm64) | 38.0 MiB | `native/darwin/arm64` |
-| [caveman-proxy_linux_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-proxy_linux_amd64) | 36.4 MiB | `native/linux/x64` |
-| [caveman-proxy_linux_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-proxy_linux_arm64) | 34.9 MiB | `native/linux/arm64` |
-| [caveman-proxy_win32_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-proxy_win32_amd64) | 37.9 MiB | `native/win/x64` |
-| [caveman-proxy_win32_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-proxy_win32_arm64) | 36.1 MiB | `native/win/arm64` |
-| [caveman-shrink_darwin_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-shrink_darwin_amd64) | 25.6 MiB | `native/darwin/x64` |
-| [caveman-shrink_darwin_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-shrink_darwin_arm64) | 25.3 MiB | `native/darwin/arm64` |
-| [caveman-shrink_linux_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-shrink_linux_amd64) | 23.1 MiB | `native/linux/x64` |
-| [caveman-shrink_linux_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-shrink_linux_arm64) | 22.6 MiB | `native/linux/arm64` |
-| [caveman-shrink_win32_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-shrink_win32_amd64) | 24.2 MiB | `native/win/x64` |
-| [caveman-shrink_win32_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/caveman-shrink_win32_arm64) | 23.5 MiB | `native/win/arm64` |
-| [cavemem_darwin_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/cavemem_darwin_amd64) | 25.9 MiB | `native/darwin/x64` |
-| [cavemem_darwin_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/cavemem_darwin_arm64) | 25.5 MiB | `native/darwin/arm64` |
-| [cavemem_linux_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/cavemem_linux_amd64) | 23.4 MiB | `native/linux/x64` |
-| [cavemem_linux_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/cavemem_linux_arm64) | 22.8 MiB | `native/linux/arm64` |
-| [cavemem_win32_amd64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/cavemem_win32_amd64) | 24.5 MiB | `native/win/x64` |
-| [cavemem_win32_arm64](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/cavemem_win32_arm64) | 23.8 MiB | `native/win/arm64` |
-| [checksums.txt](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/checksums.txt) | 3.2 KiB | `other` |
-| [checksums.txt.keysig](https://github.com/JuliusBrussee/caveman/releases/download/bin-v1.1.6/checksums.txt.keysig) | 291 B | `other` |
+| 30d | 2026-08-16 | 16 | 26 | 16 | 69 | 23 | 266 |
+| last60d | 2026-07-17 | 19 | 34 | 29 | 115 | 30 | 383 |
+| 90d | 2026-06-17 | 20 | 43 | 40 | 177 | 41 | 416 |
+| last180d | 2026-03-19 | 35 | 87 | 47 | 368 | 61 | 582 |
+| 360d | 2025-09-20 | 35 | 87 | 47 | 368 | 61 | 582 |
+| last720d | 2024-09-25 | 35 | 87 | 47 | 368 | 61 | 671 |
 
 ## Improve this data
 
@@ -107,4 +63,4 @@ Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:47:23Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:59:34Z._
