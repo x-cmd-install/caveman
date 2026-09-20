@@ -4,7 +4,7 @@
 
 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
-![caveman](https://repo.x-cmd.io/caveman.svg)
+[![x-cmd/install — caveman Code Quality Monitoring Repo Card](https://repo.x-cmd.io/caveman.svg)](https://x-cmd.com/install/caveman)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install caveman
 
 ## Code insight
 
-Total: **279,476** lines of code across **1198** files in the top 5 languages.
+Total: **280,995** lines of code across **1213** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 117,634 | 12,827 | 8,638 | 565 |
-| JavaScript | 62,005 | 5,191 | 4,862 | 317 |
-| TypeScript | 41,766 | 4,099 | 2,241 | 81 |
-| Json | 26,795 | 0 | 1 | 155 |
-| Python | 16,459 | 843 | 2,808 | 80 |
+| JavaScript | 62,449 | 5,197 | 4,886 | 325 |
+| TypeScript | 41,882 | 4,106 | 2,249 | 82 |
+| Json | 27,116 | 0 | 1 | 156 |
+| Python | 17,094 | 845 | 2,922 | 85 |
 
 ## Source
 
@@ -33,26 +33,26 @@ Total: **279,476** lines of code across **1198** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.7.0` (2026-09-15)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-20
 
 ## Popularity
 
-- **Stars**: 106,346 · **Forks**: 6,161 · **Open issues**: 441 · **Contributors**: 67
+- **Stars**: 106,821 · **Forks**: 6,178 · **Open issues**: 444 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 91 · **Open PRs**: 62 · **Closed issues**: 377 · **Open issues**: 64 · **Commits**: 692
+- **Releases**: 35 · **Merged PRs**: 91 · **Open PRs**: 63 · **Closed issues**: 377 · **Open issues**: 67 · **Commits**: 695
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 13 | 29 | 30 | 63 | 23 | 284 |
-| last60d | 2026-07-20 | 19 | 38 | 44 | 121 | 32 | 401 |
-| 90d | 2026-06-20 | 20 | 47 | 55 | 182 | 44 | 434 |
-| last180d | 2026-03-22 | 35 | 91 | 62 | 377 | 64 | 600 |
-| 360d | 2025-09-23 | 35 | 91 | 62 | 377 | 64 | 600 |
-| last720d | 2024-09-28 | 35 | 91 | 62 | 377 | 64 | 692 |
+| 30d | 2026-08-21 | 11 | 27 | 31 | 61 | 26 | 241 |
+| last60d | 2026-07-22 | 19 | 38 | 45 | 119 | 33 | 403 |
+| 90d | 2026-06-22 | 20 | 47 | 55 | 179 | 46 | 437 |
+| last180d | 2026-03-24 | 35 | 91 | 63 | 377 | 67 | 603 |
+| 360d | 2025-09-25 | 35 | 91 | 63 | 377 | 67 | 603 |
+| last720d | 2024-09-30 | 35 | 91 | 63 | 377 | 67 | 695 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:41:50Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:49:36Z._
