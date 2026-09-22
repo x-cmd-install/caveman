@@ -14,13 +14,13 @@ x install caveman
 
 ## Code insight
 
-Total: **282,505** lines of code across **1214** files in the top 5 languages.
+Total: **282,619** lines of code across **1214** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 117,936 | 12,899 | 8,652 | 565 |
-| JavaScript | 63,374 | 5,267 | 4,958 | 326 |
-| TypeScript | 42,126 | 4,129 | 2,249 | 82 |
+| JavaScript | 63,428 | 5,274 | 4,962 | 326 |
+| TypeScript | 42,186 | 4,155 | 2,254 | 82 |
 | Json | 27,116 | 0 | 1 | 156 |
 | Python | 17,133 | 845 | 2,927 | 85 |
 
@@ -33,26 +33,26 @@ Total: **282,505** lines of code across **1214** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.7.0` (2026-09-15)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
-- **Stars**: 107,024 · **Forks**: 6,197 · **Open issues**: 452 · **Contributors**: 72
+- **Stars**: 107,216 · **Forks**: 6,209 · **Open issues**: 455 · **Contributors**: 72
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 97 · **Open PRs**: 58 · **Closed issues**: 388 · **Open issues**: 64 · **Commits**: 720
+- **Releases**: 35 · **Merged PRs**: 98 · **Open PRs**: 60 · **Closed issues**: 388 · **Open issues**: 67 · **Commits**: 723
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 11 | 31 | 28 | 69 | 24 | 256 |
-| last60d | 2026-07-23 | 19 | 44 | 40 | 128 | 30 | 420 |
-| 90d | 2026-06-23 | 20 | 53 | 49 | 186 | 43 | 455 |
-| last180d | 2026-03-25 | 35 | 97 | 58 | 388 | 64 | 621 |
-| 360d | 2025-09-26 | 35 | 97 | 58 | 388 | 64 | 621 |
-| last720d | 2024-10-01 | 35 | 97 | 58 | 388 | 64 | 720 |
+| 30d | 2026-08-23 | 11 | 29 | 31 | 67 | 27 | 258 |
+| last60d | 2026-07-24 | 19 | 45 | 42 | 126 | 33 | 422 |
+| 90d | 2026-06-24 | 20 | 54 | 50 | 184 | 46 | 457 |
+| last180d | 2026-03-26 | 35 | 98 | 60 | 388 | 67 | 623 |
+| 360d | 2025-09-27 | 35 | 98 | 60 | 388 | 67 | 623 |
+| last720d | 2024-10-02 | 35 | 98 | 60 | 388 | 67 | 723 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:55:07Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:50:15Z._
