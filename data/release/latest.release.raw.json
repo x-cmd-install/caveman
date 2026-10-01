@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/JuliusBrussee/caveman/releases/388858793",
-  "assets_url": "https://api.github.com/repos/JuliusBrussee/caveman/releases/388858793/assets",
-  "upload_url": "https://uploads.github.com/repos/JuliusBrussee/caveman/releases/388858793/assets{?name,label}",
-  "html_url": "https://github.com/JuliusBrussee/caveman/releases/tag/v2.7.0",
-  "id": 388858793,
+  "url": "https://api.github.com/repos/JuliusBrussee/caveman/releases/400368142",
+  "assets_url": "https://api.github.com/repos/JuliusBrussee/caveman/releases/400368142/assets",
+  "upload_url": "https://uploads.github.com/repos/JuliusBrussee/caveman/releases/400368142/assets{?name,label}",
+  "html_url": "https://github.com/JuliusBrussee/caveman/releases/tag/v3.0.0",
+  "id": 400368142,
   "author": {
     "login": "JuliusBrussee",
     "id": 104168679,
@@ -25,32 +25,32 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOR5h10c4XLYOp",
-  "tag_name": "v2.7.0",
+  "node_id": "RE_kwDOR5h10c4X3SIO",
+  "tag_name": "v3.0.0",
   "target_commitish": "main",
-  "name": "v2.7.0",
+  "name": "Caveman 3.0.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-15T03:57:09Z",
-  "updated_at": "2026-09-15T04:01:16Z",
-  "published_at": "2026-09-15T04:01:16Z",
+  "created_at": "2026-09-30T19:25:14Z",
+  "updated_at": "2026-09-30T19:25:17Z",
+  "published_at": "2026-09-30T19:25:17Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/JuliusBrussee/caveman/tarball/v2.7.0",
-  "zipball_url": "https://api.github.com/repos/JuliusBrussee/caveman/zipball/v2.7.0",
-  "body": "Caveman 2.7.0 installs natively into more agents, makes uninstall clean up what it wired, stops Codex approval rules from breaking, and ships the hosted proxy mode and framework middleware on the bin-v1.1.7 runtime.\n\nHighlights:\n- Install: agents that read physical skill directories now get a native, ownership-tracked copy. `--uninstall` disables native agent integrations and says when a native route survives. The standalone installer is safe on JSONC and foreign manifests, and `caveman-init --force` refreshes an installed rule file. The update path is documented.\n- Plugin: the Claude Code plugin and Gemini extension manifests declare the release version, so hosts stop showing a commit sha or a years-old `1.0.1` (#321, #403).\n- Skill: an explicit reply-language instruction wins over the conversation's dominant language. Level switches carry the right ruleset on both hosts, natural-language activation has fewer false positives, and the fallback ruleset no longer carries a language few-shot.\n- Stats: `/caveman-stats` reports only what the transcript shows; the unmeasured savings claims are retired from docs.\n- Codex: the API-key route gets the `/v1` prefix Codex appends to, and shell commands are no longer rewritten (that broke saved approval rules). `caveman wrap` stops registering a Codex shrink hook the README says it skips.\n- CLI: new `caveman stats` command surface; a wrapped host's endpoint is proven before its credentials are rerouted; agent config homes are honored; a loopback gateway stays out of a corporate proxy; `think.shrink` is honored by the native install.\n- opencode: mode changes are recorded.\n- Compress / shrink: the compress skill CLI runs as a plain script; shrink leaves mixed CJK strings byte-identical (#575) and escalates to SIGKILL when the upstream ignores the signal.\n- Pi: provider routing is gated on the live listener, with per-model originals and compat-mount routing for custom providers (#972).\n- Proxy (bin-v1.1.7): hosted mode (inbound token, AWS credential chain, container image at `ghcr.io/juliusbrussee/caveman-proxy`), framework middleware routes, byte-exact token-counting routes, per-request accounting with a local stats report, tighter secret redaction and SSRF policy, Bedrock SigV4 callers never re-signed as another principal, and recovery-store locking fixes.\n\nArtifacts:\n- Signed binaries: bin-v1.1.7\n- CLI: `npm install -g @caveman-ai/cli@1.3.4` (npm publish pending)\n- Pi extension: `@caveman-ai/pi@0.1.1` (npm publish pending)\n- MCP shrink proxy: `caveman-shrink@0.1.1` (npm publish pending)\n- SDKs: `@caveman-ai/sdk@1.1.0`, `caveman-sdk==1.1.0`\n- Middleware (alpha): `@caveman-ai/middleware@0.1.0-alpha.2`, `caveman-middleware==0.1.0a1`\n\nValidation:\n- Installer suite (`node --test tests/installer/*.test.mjs`): 322 passed, 0 failed, including the bootstrap pin lockstep and host manifest version guards.\n- `tests/verify_repo.py`: all local verification checks passed.\n- CLI suite (94 runtime files): 1052 passed, 0 failed.\n- Pi extension suite: 117 passed. caveman-shrink suite: 28 passed.\n- bin-v1.1.7: all 38 release assets downloadable anonymously.\n- Nightly agent conformance: every pinned profile and the real compression engine green except Hermes, whose upstream package currently refuses to build a wheel.\n",
+  "tarball_url": "https://api.github.com/repos/JuliusBrussee/caveman/tarball/v3.0.0",
+  "zipball_url": "https://api.github.com/repos/JuliusBrussee/caveman/zipball/v3.0.0",
+  "body": "# Caveman 3.0.0\n\n## Everything is Apache-2.0 now\n\nThe whole repo, including engine, proxy, browse, MCP server, shrink, the cavemem Go core and shared platform, is licensed Apache-2.0 from 3.0.0 onward. There's no hosted-service restriction and no Change Date, and you don't need a commercial license. Fork it, embed it, run it for your company. [LICENSING.md](https://github.com/JuliusBrussee/caveman/blob/v3.0.0/LICENSING.md) has the details.\n\nEarlier releases keep the license they shipped with. Code that outside contributors wrote under MIT stays available under MIT (`LICENSE-MIT`).\n\n## Caveman Learn runs itself\n\n- **Autopilot.** After a session ends, Learn re-checks your history in the background at low priority, at most every 6 hours. It never makes a session wait, and `caveman learn autopilot off` stops it.\n- **Memory doctor.** It finds `MEMORY.md` notes Claude Code never loads (Claude Code only reads the first 200 lines or 25KB), `@imports` pointing at missing files, the same rule loaded from two files, and stale paths in `CLAUDE.md`.\n- **Trends.** Week-over-week numbers from your own sessions. They use the median session, and you get \"not enough data\" when there are fewer than 5 sessions.\n- **Built-in model price list**, now including the current Claude and GPT lineups. Numbers no longer depend on which folder you run from.\n- Every fix still asks first, gets re-counted, and is undone if it didn't make each message smaller.\n\n## Middleware 1.0 and SDK 1.2\n\n- `@caveman-ai/middleware` and `caveman-middleware` are stable at 1.0.0 and need SDK 1.2.0.\n- Adapters fail open: if Caveman has a problem, your request goes through untouched and you get a loud warning.\n- The proxy adds tenant identity, a Postgres HA store, TLS/mTLS and HA deploy manifests (`deploy/`).\n- `@caveman-ai/contracts` 2.0.0 publishes the protocol 1.1 schemas and OpenAPI.\n\n## Telemetry\n\nThe CLI and its agent hooks send usage stats with a random install ID and your IP address. This is on by default. Turn it off with `caveman telemetry off` or `DO_NOT_TRACK=1`, and CI never sends. The skill by itself sends nothing. See [SECURITY.md](https://github.com/JuliusBrussee/caveman/blob/v3.0.0/SECURITY.md).\n\n## Versions\n\n| Artifact | Version |\n|---|---|\n| Runtime binaries + `ghcr.io/juliusbrussee/caveman-proxy` | `bin-v2.0.0` |\n| `@caveman-ai/cli` | 2.0.0 |\n| `@caveman-ai/sdk` / `caveman-sdk` | 1.2.0 |\n| `@caveman-ai/middleware` / `caveman-middleware` | 1.0.0 |\n| `@caveman-ai/contracts` | 2.0.0 |\n| `@caveman-ai/pi` | 0.2.0 |\n\n## Upgrade\n\n```sh\nnpx -y github:JuliusBrussee/caveman\n```\n\nBreaking: the SDK license changes from MIT to Apache-2.0, and middleware 1.0.0 requires SDK >= 1.2.0.\n",
   "reactions": {
-    "url": "https://api.github.com/repos/JuliusBrussee/caveman/releases/388858793/reactions",
-    "total_count": 18,
-    "+1": 14,
+    "url": "https://api.github.com/repos/JuliusBrussee/caveman/releases/400368142/reactions",
+    "total_count": 9,
+    "+1": 3,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 0,
+    "heart": 6,
     "rocket": 0,
-    "eyes": 4
+    "eyes": 0
   }
 }
