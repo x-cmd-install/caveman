@@ -14,45 +14,55 @@ x install caveman
 
 ## Code insight
 
-Total: **282,619** lines of code across **1214** files in the top 5 languages.
+Total: **271,120** lines of code across **1189** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 117,936 | 12,899 | 8,652 | 565 |
-| JavaScript | 63,428 | 5,274 | 4,962 | 326 |
-| TypeScript | 42,186 | 4,155 | 2,254 | 82 |
-| Json | 27,116 | 0 | 1 | 156 |
-| Python | 17,133 | 845 | 2,927 | 85 |
+| Go | 119,545 | 13,660 | 8,627 | 553 |
+| JavaScript | 54,059 | 5,099 | 4,715 | 326 |
+| TypeScript | 30,855 | 3,065 | 1,768 | 65 |
+| Json | 27,764 | 0 | 1 | 151 |
+| Python | 22,303 | 985 | 3,876 | 94 |
+
+## OpenSSF Scorecard
+
+Overall score: **6.5 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 0/3 approved changesets -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
 - **Upstream**: <https://github.com/JuliusBrussee/caveman>
 - **Homepage**: <https://docs.caveman.so/docs/quickstart>
-- **License**: NOASSERTION
+- **License**: Apache-2.0
 
 ## Release
 
-- **Latest**: `v2.7.0` (2026-09-15)
-- **Last commit**: 2026-09-22
+- **Latest**: `sdk-python-v1.2.0` (2026-09-30)
+- **Last commit**: 2026-09-30
 
 ## Popularity
 
-- **Stars**: 108,441 · **Forks**: 6,284 · **Open issues**: 468 · **Contributors**: 72
+- **Stars**: 108,622 · **Forks**: 6,296 · **Open issues**: 474 · **Contributors**: 72
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 98 · **Open PRs**: 65 · **Closed issues**: 389 · **Open issues**: 79 · **Commits**: 723
+- **Releases**: 42 · **Merged PRs**: 101 · **Open PRs**: 71 · **Closed issues**: 389 · **Open issues**: 85 · **Commits**: 822
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 6 | 21 | 36 | 53 | 39 | 154 |
-| last60d | 2026-08-01 | 19 | 44 | 41 | 115 | 43 | 415 |
-| 90d | 2026-07-02 | 20 | 45 | 54 | 163 | 54 | 430 |
-| last180d | 2026-04-03 | 35 | 98 | 65 | 389 | 79 | 598 |
-| 360d | 2025-10-05 | 35 | 98 | 65 | 389 | 79 | 623 |
-| last720d | 2024-10-10 | 35 | 98 | 65 | 389 | 79 | 723 |
+| 30d | 2026-09-01 | 13 | 23 | 42 | 49 | 45 | 245 |
+| last60d | 2026-08-02 | 26 | 46 | 46 | 115 | 48 | 506 |
+| 90d | 2026-07-03 | 27 | 48 | 57 | 162 | 57 | 521 |
+| last180d | 2026-04-04 | 42 | 101 | 71 | 389 | 85 | 689 |
+| 360d | 2025-10-06 | 42 | 101 | 71 | 389 | 85 | 714 |
+| last720d | 2024-10-11 | 42 | 101 | 71 | 389 | 85 | 822 |
 
 ## Improve this data
 
@@ -63,4 +73,4 @@ Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:21:10Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:31:14Z._
