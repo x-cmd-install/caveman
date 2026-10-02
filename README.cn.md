@@ -30,7 +30,7 @@ x install caveman
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/3 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/4 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
@@ -43,26 +43,26 @@ x install caveman
 ## 发布
 
 - **最新版本**: `sdk-python-v1.2.0` (2026-09-30)
-- **最近提交**: 2026-09-30
+- **最近提交**: 2026-10-01
 
 ## 流行度
 
-- **Star**: 108,622 · **Fork**: 6,296 · **开放 issue**: 474 · **贡献者**: 72
+- **Star**: 108,771 · **Fork**: 6,305 · **开放 issue**: 475 · **贡献者**: 72
 
 ## 累计统计
 
-- **发布数**: 42 · **已合并 PR**: 101 · **开放 PR**: 71 · **已关闭 issue**: 389 · **开放 issue**: 85 · **提交数**: 822
+- **发布数**: 42 · **已合并 PR**: 101 · **开放 PR**: 71 · **已关闭 issue**: 389 · **开放 issue**: 86 · **提交数**: 823
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 13 | 23 | 42 | 49 | 45 | 245 |
-| last60d | 2026-08-02 | 26 | 46 | 46 | 115 | 48 | 506 |
-| 90d | 2026-07-03 | 27 | 48 | 57 | 162 | 57 | 521 |
-| last180d | 2026-04-04 | 42 | 101 | 71 | 389 | 85 | 689 |
-| 360d | 2025-10-06 | 42 | 101 | 71 | 389 | 85 | 714 |
-| last720d | 2024-10-11 | 42 | 101 | 71 | 389 | 85 | 822 |
+| 30d | 2026-09-02 | 13 | 22 | 42 | 48 | 46 | 246 |
+| last60d | 2026-08-03 | 26 | 46 | 46 | 114 | 49 | 507 |
+| 90d | 2026-07-04 | 26 | 48 | 57 | 161 | 58 | 522 |
+| last180d | 2026-04-05 | 41 | 96 | 71 | 381 | 86 | 690 |
+| 360d | 2025-10-07 | 42 | 101 | 71 | 389 | 86 | 715 |
+| last720d | 2024-10-12 | 42 | 101 | 71 | 389 | 86 | 823 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ caveman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261001.yml` · 2026-10-01T06:31:15Z._
+_数据快照: `data/card/261002.yml` · 2026-10-02T06:15:42Z._
