@@ -43,13 +43,13 @@
   "body": "# Caveman 3.0.0\n\n## Everything is Apache-2.0 now\n\nThe whole repo, including engine, proxy, browse, MCP server, shrink, the cavemem Go core and shared platform, is licensed Apache-2.0 from 3.0.0 onward. There's no hosted-service restriction and no Change Date, and you don't need a commercial license. Fork it, embed it, run it for your company. [LICENSING.md](https://github.com/JuliusBrussee/caveman/blob/v3.0.0/LICENSING.md) has the details.\n\nEarlier releases keep the license they shipped with. Code that outside contributors wrote under MIT stays available under MIT (`LICENSE-MIT`).\n\n## Caveman Learn runs itself\n\n- **Autopilot.** After a session ends, Learn re-checks your history in the background at low priority, at most every 6 hours. It never makes a session wait, and `caveman learn autopilot off` stops it.\n- **Memory doctor.** It finds `MEMORY.md` notes Claude Code never loads (Claude Code only reads the first 200 lines or 25KB), `@imports` pointing at missing files, the same rule loaded from two files, and stale paths in `CLAUDE.md`.\n- **Trends.** Week-over-week numbers from your own sessions. They use the median session, and you get \"not enough data\" when there are fewer than 5 sessions.\n- **Built-in model price list**, now including the current Claude and GPT lineups. Numbers no longer depend on which folder you run from.\n- Every fix still asks first, gets re-counted, and is undone if it didn't make each message smaller.\n\n## Middleware 1.0 and SDK 1.2\n\n- `@caveman-ai/middleware` and `caveman-middleware` are stable at 1.0.0 and need SDK 1.2.0.\n- Adapters fail open: if Caveman has a problem, your request goes through untouched and you get a loud warning.\n- The proxy adds tenant identity, a Postgres HA store, TLS/mTLS and HA deploy manifests (`deploy/`).\n- `@caveman-ai/contracts` 2.0.0 publishes the protocol 1.1 schemas and OpenAPI.\n\n## Telemetry\n\nThe CLI and its agent hooks send usage stats with a random install ID and your IP address. This is on by default. Turn it off with `caveman telemetry off` or `DO_NOT_TRACK=1`, and CI never sends. The skill by itself sends nothing. See [SECURITY.md](https://github.com/JuliusBrussee/caveman/blob/v3.0.0/SECURITY.md).\n\n## Versions\n\n| Artifact | Version |\n|---|---|\n| Runtime binaries + `ghcr.io/juliusbrussee/caveman-proxy` | `bin-v2.0.0` |\n| `@caveman-ai/cli` | 2.0.0 |\n| `@caveman-ai/sdk` / `caveman-sdk` | 1.2.0 |\n| `@caveman-ai/middleware` / `caveman-middleware` | 1.0.0 |\n| `@caveman-ai/contracts` | 2.0.0 |\n| `@caveman-ai/pi` | 0.2.0 |\n\n## Upgrade\n\n```sh\nnpx -y github:JuliusBrussee/caveman\n```\n\nBreaking: the SDK license changes from MIT to Apache-2.0, and middleware 1.0.0 requires SDK >= 1.2.0.\n",
   "reactions": {
     "url": "https://api.github.com/repos/JuliusBrussee/caveman/releases/400368142/reactions",
-    "total_count": 11,
-    "+1": 3,
+    "total_count": 13,
+    "+1": 4,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 8,
+    "heart": 9,
     "rocket": 0,
     "eyes": 0
   }
