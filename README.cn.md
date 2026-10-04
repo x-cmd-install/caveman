@@ -14,14 +14,14 @@ x install caveman
 
 ## 代码洞察
 
-合计: **272,854** 行代码（覆盖前 5 种语言、共 **1194** 个文件）。
+合计: **273,095** 行代码（覆盖前 5 种语言、共 **1194** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 118,336 | 13,788 | 8,600 | 548 |
-| JavaScript | 55,578 | 5,374 | 4,867 | 331 |
-| TypeScript | 31,107 | 3,170 | 1,783 | 65 |
-| Json | 27,977 | 0 | 1 | 152 |
+| Go | 118,376 | 13,813 | 8,605 | 548 |
+| JavaScript | 55,865 | 5,469 | 4,893 | 331 |
+| TypeScript | 31,172 | 3,180 | 1,785 | 65 |
+| Json | 28,050 | 0 | 1 | 152 |
 | Python | 23,258 | 1,087 | 4,032 | 98 |
 
 ## OpenSSF Scorecard 评分
@@ -30,9 +30,9 @@ x install caveman
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/3 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/7 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Branch-Protection** (0/10) — branch protection not enabled on development/release branches
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -42,27 +42,27 @@ x install caveman
 
 ## 发布
 
-- **最新版本**: `sdk-python-v1.2.0` (2026-09-30)
-- **最近提交**: 2026-10-03
+- **最新版本**: `bin-v2.0.2` (2026-10-04)
+- **最近提交**: 2026-10-04
 
 ## 流行度
 
-- **Star**: 109,196 · **Fork**: 6,320 · **开放 issue**: 483 · **贡献者**: 80
+- **Star**: 109,617 · **Fork**: 6,341 · **开放 issue**: 484 · **贡献者**: 80
 
 ## 累计统计
 
-- **发布数**: 42 · **已合并 PR**: 115 · **开放 PR**: 70 · **已关闭 issue**: 409 · **开放 issue**: 74 · **提交数**: 933
+- **发布数**: 44 · **已合并 PR**: 119 · **开放 PR**: 47 · **已关闭 issue**: 417 · **开放 issue**: 67 · **提交数**: 957
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 11 | 30 | 41 | 53 | 35 | 337 |
-| last60d | 2026-08-04 | 25 | 59 | 45 | 129 | 38 | 598 |
-| 90d | 2026-07-05 | 26 | 62 | 55 | 177 | 47 | 613 |
-| last180d | 2026-04-06 | 40 | 108 | 70 | 397 | 74 | 781 |
-| 360d | 2025-10-08 | 42 | 115 | 70 | 409 | 74 | 806 |
-| last720d | 2024-10-13 | 42 | 115 | 70 | 409 | 74 | 933 |
+| 30d | 2026-09-04 | 13 | 34 | 17 | 56 | 28 | 294 |
+| last60d | 2026-08-05 | 27 | 61 | 21 | 137 | 31 | 603 |
+| 90d | 2026-07-06 | 28 | 66 | 32 | 185 | 40 | 632 |
+| last180d | 2026-04-07 | 41 | 105 | 47 | 401 | 67 | 730 |
+| 360d | 2025-10-09 | 44 | 119 | 47 | 417 | 67 | 825 |
+| last720d | 2024-10-14 | 44 | 119 | 47 | 417 | 67 | 957 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ caveman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261003.yml` · 2026-10-03T06:05:37Z._
+_数据快照: `data/card/261004.yml` · 2026-10-04T06:30:32Z._
