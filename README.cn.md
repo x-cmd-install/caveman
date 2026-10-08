@@ -14,23 +14,23 @@ x install caveman
 
 ## 代码洞察
 
-合计: **272,345** 行代码（覆盖前 5 种语言、共 **1198** 个文件）。
+合计: **283,560** 行代码（覆盖前 5 种语言、共 **1223** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 118,739 | 13,923 | 8,640 | 551 |
-| JavaScript | 55,957 | 5,477 | 4,904 | 332 |
-| TypeScript | 31,172 | 3,180 | 1,785 | 65 |
-| Json | 26,777 | 0 | 1 | 152 |
-| Python | 23,258 | 1,087 | 4,032 | 98 |
+| Go | 124,320 | 14,719 | 9,071 | 557 |
+| JavaScript | 58,781 | 5,785 | 5,071 | 345 |
+| TypeScript | 31,505 | 3,188 | 1,794 | 65 |
+| Json | 27,507 | 0 | 1 | 154 |
+| Python | 24,971 | 1,209 | 4,266 | 102 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.6 / 10**
+总评分: **6.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/5 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
@@ -42,27 +42,36 @@ x install caveman
 
 ## 发布
 
-- **最新版本**: `bin-v2.0.2` (2026-10-04)
-- **最近提交**: 2026-10-06
+- **最新版本**: `middleware-ts-v1.0.1` (2026-10-08)
+- **最近提交**: 2026-10-08
+- **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 110,262 · **Fork**: 6,383 · **开放 issue**: 496 · **贡献者**: 82
+- **Star**: 110,458 · **Fork**: 6,393 · **开放 issue**: 505 · **贡献者**: 98
 
 ## 累计统计
 
-- **发布数**: 44 · **已合并 PR**: 120 · **开放 PR**: 25 · **已关闭 issue**: 444 · **开放 issue**: 52 · **提交数**: 968
+- **发布数**: 47 · **已合并 PR**: 139 · **开放 PR**: 15 · **已关闭 issue**: 477 · **开放 issue**: 28 · **提交数**: 1214
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 11 | 32 | 19 | 56 | 28 | 304 |
-| last60d | 2026-08-08 | 27 | 62 | 20 | 145 | 30 | 613 |
-| 90d | 2026-07-09 | 28 | 67 | 24 | 194 | 36 | 642 |
-| last180d | 2026-04-10 | 39 | 96 | 25 | 415 | 51 | 740 |
-| 360d | 2025-10-12 | 44 | 120 | 25 | 444 | 52 | 835 |
-| last720d | 2024-10-17 | 44 | 120 | 25 | 444 | 52 | 968 |
+| 30d | 2026-09-08 | 14 | 43 | 15 | 69 | 22 | 503 |
+| last60d | 2026-08-09 | 30 | 76 | 15 | 161 | 23 | 817 |
+| 90d | 2026-07-10 | 31 | 85 | 15 | 210 | 23 | 850 |
+| last180d | 2026-04-11 | 42 | 114 | 15 | 437 | 28 | 950 |
+| 360d | 2025-10-13 | 47 | 139 | 15 | 477 | 28 | 1045 |
+| last720d | 2024-10-18 | 47 | 139 | 15 | 477 | 28 | 1214 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [caveman-browser-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v3.2.0/caveman-browser-1.3.0.zip) | 175.6 KiB | `other` |
+| [caveman-browser-firefox-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v3.2.0/caveman-browser-firefox-1.3.0.zip) | 175.9 KiB | `other` |
+| [caveman.skill](https://github.com/JuliusBrussee/caveman/releases/download/v3.2.0/caveman.skill) | 4.3 KiB | `other` |
 
 ## 改进这些数据
 
@@ -73,4 +82,4 @@ caveman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T06:52:03Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T06:46:48Z._

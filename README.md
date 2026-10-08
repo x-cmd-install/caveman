@@ -14,23 +14,23 @@ x install caveman
 
 ## Code insight
 
-Total: **272,345** lines of code across **1198** files in the top 5 languages.
+Total: **283,560** lines of code across **1223** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 118,739 | 13,923 | 8,640 | 551 |
-| JavaScript | 55,957 | 5,477 | 4,904 | 332 |
-| TypeScript | 31,172 | 3,180 | 1,785 | 65 |
-| Json | 26,777 | 0 | 1 | 152 |
-| Python | 23,258 | 1,087 | 4,032 | 98 |
+| Go | 124,320 | 14,719 | 9,071 | 557 |
+| JavaScript | 58,781 | 5,785 | 5,071 | 345 |
+| TypeScript | 31,505 | 3,188 | 1,794 | 65 |
+| Json | 27,507 | 0 | 1 | 154 |
+| Python | 24,971 | 1,209 | 4,266 | 102 |
 
 ## OpenSSF Scorecard
 
-Overall score: **6.6 / 10**
+Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/5 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
@@ -42,27 +42,36 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `bin-v2.0.2` (2026-10-04)
-- **Last commit**: 2026-10-06
+- **Latest**: `middleware-ts-v1.0.1` (2026-10-08)
+- **Last commit**: 2026-10-08
+- **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 110,262 · **Forks**: 6,383 · **Open issues**: 496 · **Contributors**: 82
+- **Stars**: 110,458 · **Forks**: 6,393 · **Open issues**: 505 · **Contributors**: 98
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 120 · **Open PRs**: 25 · **Closed issues**: 444 · **Open issues**: 52 · **Commits**: 968
+- **Releases**: 47 · **Merged PRs**: 139 · **Open PRs**: 15 · **Closed issues**: 477 · **Open issues**: 28 · **Commits**: 1214
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 11 | 32 | 19 | 56 | 28 | 304 |
-| last60d | 2026-08-08 | 27 | 62 | 20 | 145 | 30 | 613 |
-| 90d | 2026-07-09 | 28 | 67 | 24 | 194 | 36 | 642 |
-| last180d | 2026-04-10 | 39 | 96 | 25 | 415 | 51 | 740 |
-| 360d | 2025-10-12 | 44 | 120 | 25 | 444 | 52 | 835 |
-| last720d | 2024-10-17 | 44 | 120 | 25 | 444 | 52 | 968 |
+| 30d | 2026-09-08 | 14 | 43 | 15 | 69 | 22 | 503 |
+| last60d | 2026-08-09 | 30 | 76 | 15 | 161 | 23 | 817 |
+| 90d | 2026-07-10 | 31 | 85 | 15 | 210 | 23 | 850 |
+| last180d | 2026-04-11 | 42 | 114 | 15 | 437 | 28 | 950 |
+| 360d | 2025-10-13 | 47 | 139 | 15 | 477 | 28 | 1045 |
+| last720d | 2024-10-18 | 47 | 139 | 15 | 477 | 28 | 1214 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [caveman-browser-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v3.2.0/caveman-browser-1.3.0.zip) | 175.6 KiB | `other` |
+| [caveman-browser-firefox-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v3.2.0/caveman-browser-firefox-1.3.0.zip) | 175.9 KiB | `other` |
+| [caveman.skill](https://github.com/JuliusBrussee/caveman/releases/download/v3.2.0/caveman.skill) | 4.3 KiB | `other` |
 
 ## Improve this data
 
@@ -73,4 +82,4 @@ Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:52:02Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:46:46Z._
