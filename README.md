@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 110,458 · **Forks**: 6,393 · **Open issues**: 505 · **Contributors**: 98
+- **Stars**: 110,629 · **Forks**: 6,405 · **Open issues**: 507 · **Contributors**: 98
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 139 · **Open PRs**: 15 · **Closed issues**: 477 · **Open issues**: 28 · **Commits**: 1214
+- **Releases**: 47 · **Merged PRs**: 139 · **Open PRs**: 20 · **Closed issues**: 477 · **Open issues**: 30 · **Commits**: 1214
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 14 | 43 | 15 | 69 | 22 | 503 |
-| last60d | 2026-08-09 | 30 | 76 | 15 | 161 | 23 | 817 |
-| 90d | 2026-07-10 | 31 | 85 | 15 | 210 | 23 | 850 |
-| last180d | 2026-04-11 | 42 | 114 | 15 | 437 | 28 | 950 |
-| 360d | 2025-10-13 | 47 | 139 | 15 | 477 | 28 | 1045 |
-| last720d | 2024-10-18 | 47 | 139 | 15 | 477 | 28 | 1214 |
+| 30d | 2026-09-09 | 14 | 43 | 20 | 66 | 23 | 503 |
+| last60d | 2026-08-10 | 30 | 76 | 20 | 160 | 25 | 817 |
+| 90d | 2026-07-11 | 31 | 85 | 20 | 209 | 25 | 850 |
+| last180d | 2026-04-12 | 38 | 112 | 20 | 434 | 30 | 950 |
+| 360d | 2025-10-14 | 47 | 139 | 20 | 477 | 30 | 1045 |
+| last720d | 2024-10-19 | 47 | 139 | 20 | 477 | 30 | 1214 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:46:46Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:46:44Z._
