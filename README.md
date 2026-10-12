@@ -37,7 +37,7 @@ Lowest-scoring checks:
 ## Source
 
 - **Upstream**: <https://github.com/JuliusBrussee/caveman>
-- **Homepage**: <https://docs.caveman.so/docs/quickstart>
+- **Homepage**: <https://docs.caveman.so/caveman>
 - **License**: Apache-2.0
 
 ## Release
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 110,953 · **Forks**: 6,427 · **Open issues**: 511 · **Contributors**: 98
+- **Stars**: 111,107 · **Forks**: 6,429 · **Open issues**: 513 · **Contributors**: 98
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 139 · **Open PRs**: 24 · **Closed issues**: 477 · **Open issues**: 34 · **Commits**: 1214
+- **Releases**: 47 · **Merged PRs**: 140 · **Open PRs**: 25 · **Closed issues**: 478 · **Open issues**: 35 · **Commits**: 1214
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 14 | 43 | 23 | 63 | 26 | 503 |
-| last60d | 2026-08-12 | 28 | 71 | 24 | 154 | 29 | 817 |
-| 90d | 2026-07-13 | 31 | 85 | 24 | 208 | 29 | 850 |
-| last180d | 2026-04-14 | 38 | 109 | 24 | 418 | 34 | 950 |
-| 360d | 2025-10-16 | 47 | 139 | 24 | 477 | 34 | 1045 |
-| last720d | 2024-10-21 | 47 | 139 | 24 | 477 | 34 | 1214 |
+| 30d | 2026-09-12 | 14 | 44 | 24 | 63 | 27 | 418 |
+| last60d | 2026-08-13 | 28 | 72 | 25 | 153 | 30 | 774 |
+| 90d | 2026-07-14 | 31 | 86 | 25 | 206 | 30 | 850 |
+| last180d | 2026-04-15 | 38 | 107 | 25 | 411 | 34 | 938 |
+| 360d | 2025-10-17 | 47 | 140 | 25 | 478 | 35 | 1045 |
+| last720d | 2024-10-22 | 47 | 140 | 25 | 478 | 35 | 1214 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:26:36Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:42:12Z._
