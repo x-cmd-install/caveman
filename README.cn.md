@@ -26,13 +26,13 @@ x install caveman
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.5 / 10**
+总评分: **6.6 / 10**
 
 评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (0/10) — branch protection not enabled on development/release branches
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install caveman
 
 ## 流行度
 
-- **Star**: 111,107 · **Fork**: 6,429 · **开放 issue**: 513 · **贡献者**: 98
+- **Star**: 111,309 · **Fork**: 6,453 · **开放 issue**: 515 · **贡献者**: 98
 
 ## 累计统计
 
-- **发布数**: 47 · **已合并 PR**: 140 · **开放 PR**: 25 · **已关闭 issue**: 478 · **开放 issue**: 35 · **提交数**: 1214
+- **发布数**: 47 · **已合并 PR**: 144 · **开放 PR**: 26 · **已关闭 issue**: 478 · **开放 issue**: 37 · **提交数**: 1214
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 14 | 44 | 24 | 63 | 27 | 418 |
-| last60d | 2026-08-13 | 28 | 72 | 25 | 153 | 30 | 774 |
-| 90d | 2026-07-14 | 31 | 86 | 25 | 206 | 30 | 850 |
-| last180d | 2026-04-15 | 38 | 107 | 25 | 411 | 34 | 938 |
-| 360d | 2025-10-17 | 47 | 140 | 25 | 478 | 35 | 1045 |
-| last720d | 2024-10-22 | 47 | 140 | 25 | 478 | 35 | 1214 |
+| 30d | 2026-09-13 | 14 | 48 | 25 | 62 | 29 | 418 |
+| last60d | 2026-08-14 | 28 | 76 | 26 | 151 | 32 | 774 |
+| 90d | 2026-07-15 | 31 | 90 | 26 | 205 | 32 | 850 |
+| last180d | 2026-04-16 | 37 | 111 | 26 | 403 | 36 | 938 |
+| 360d | 2025-10-18 | 47 | 144 | 26 | 478 | 37 | 1045 |
+| last720d | 2024-10-23 | 47 | 144 | 26 | 478 | 37 | 1214 |
 
 ## Release 资产
 
@@ -82,4 +82,4 @@ caveman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T06:42:12Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T07:42:57Z._
