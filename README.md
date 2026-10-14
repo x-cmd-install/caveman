@@ -14,25 +14,25 @@ x install caveman
 
 ## Code insight
 
-Total: **283,560** lines of code across **1223** files in the top 5 languages.
+Total: **327,517** lines of code across **1348** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 124,320 | 14,719 | 9,071 | 557 |
-| JavaScript | 58,781 | 5,785 | 5,071 | 345 |
-| TypeScript | 31,505 | 3,188 | 1,794 | 65 |
-| Json | 27,507 | 0 | 1 | 154 |
-| Python | 24,971 | 1,209 | 4,266 | 102 |
+| Go | 153,368 | 18,206 | 10,648 | 640 |
+| JavaScript | 66,570 | 6,862 | 5,578 | 367 |
+| TypeScript | 35,657 | 4,308 | 2,116 | 81 |
+| Json | 27,869 | 0 | 1 | 158 |
+| Python | 25,117 | 1,224 | 4,288 | 102 |
 
 ## OpenSSF Scorecard
 
-Overall score: **6.6 / 10**
+Overall score: **6.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 1/7 approved changesets -- score normalized to 1
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Branch-Protection** (0/10) — branch protection not enabled on development/release branches
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -42,36 +42,36 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `middleware-ts-v1.0.1` (2026-10-08)
-- **Last commit**: 2026-10-08
+- **Latest**: `v4.0.1` (2026-10-13)
+- **Last commit**: 2026-10-13
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 111,309 · **Forks**: 6,453 · **Open issues**: 515 · **Contributors**: 98
+- **Stars**: 111,547 · **Forks**: 6,468 · **Open issues**: 521 · **Contributors**: 104
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 144 · **Open PRs**: 26 · **Closed issues**: 478 · **Open issues**: 37 · **Commits**: 1214
+- **Releases**: 51 · **Merged PRs**: 155 · **Open PRs**: 9 · **Closed issues**: 493 · **Open issues**: 28 · **Commits**: 1762
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 14 | 48 | 25 | 62 | 29 | 418 |
-| last60d | 2026-08-14 | 28 | 76 | 26 | 151 | 32 | 774 |
-| 90d | 2026-07-15 | 31 | 90 | 26 | 205 | 32 | 850 |
-| last180d | 2026-04-16 | 37 | 111 | 26 | 403 | 36 | 938 |
-| 360d | 2025-10-18 | 47 | 144 | 26 | 478 | 37 | 1045 |
-| last720d | 2024-10-23 | 47 | 144 | 26 | 478 | 37 | 1214 |
+| 30d | 2026-09-14 | 18 | 57 | 8 | 74 | 19 | 903 |
+| last60d | 2026-08-15 | 32 | 87 | 9 | 165 | 23 | 1259 |
+| 90d | 2026-07-16 | 35 | 101 | 9 | 218 | 23 | 1335 |
+| last180d | 2026-04-17 | 41 | 122 | 9 | 416 | 27 | 1423 |
+| 360d | 2025-10-19 | 51 | 155 | 9 | 493 | 28 | 1530 |
+| last720d | 2024-10-24 | 51 | 155 | 9 | 493 | 28 | 1762 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [caveman-browser-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v3.2.0/caveman-browser-1.3.0.zip) | 175.6 KiB | `other` |
-| [caveman-browser-firefox-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v3.2.0/caveman-browser-firefox-1.3.0.zip) | 175.9 KiB | `other` |
-| [caveman.skill](https://github.com/JuliusBrussee/caveman/releases/download/v3.2.0/caveman.skill) | 4.3 KiB | `other` |
+| [caveman-browser-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.0.1/caveman-browser-1.3.0.zip) | 175.6 KiB | `other` |
+| [caveman-browser-firefox-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.0.1/caveman-browser-firefox-1.3.0.zip) | 175.9 KiB | `other` |
+| [caveman.skill](https://github.com/JuliusBrussee/caveman/releases/download/v4.0.1/caveman.skill) | 4.3 KiB | `other` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:42:56Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:35:10Z._
