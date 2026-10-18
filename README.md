@@ -14,23 +14,23 @@ x install caveman
 
 ## Code insight
 
-Total: **327,517** lines of code across **1348** files in the top 5 languages.
+Total: **329,241** lines of code across **1353** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 153,368 | 18,206 | 10,648 | 640 |
-| JavaScript | 66,570 | 6,862 | 5,578 | 367 |
-| TypeScript | 35,657 | 4,308 | 2,116 | 81 |
+| Go | 154,615 | 18,398 | 10,718 | 645 |
+| JavaScript | 66,844 | 6,933 | 5,605 | 367 |
+| TypeScript | 35,733 | 4,326 | 2,116 | 81 |
 | Json | 27,869 | 0 | 1 | 158 |
-| Python | 25,117 | 1,224 | 4,288 | 102 |
+| Python | 25,244 | 1,252 | 4,305 | 102 |
 
 ## OpenSSF Scorecard
 
-Overall score: **6.7 / 10**
+Overall score: **6.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 1/7 approved changesets -- score normalized to 1
+- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.0.1` (2026-10-13)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-17
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 113,091 · **Forks**: 6,547 · **Open issues**: 535 · **Contributors**: 104
+- **Stars**: 113,327 · **Forks**: 6,556 · **Open issues**: 538 · **Contributors**: 112
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 155 · **Open PRs**: 35 · **Closed issues**: 493 · **Open issues**: 42 · **Commits**: 1762
+- **Releases**: 51 · **Merged PRs**: 167 · **Open PRs**: 19 · **Closed issues**: 504 · **Open issues**: 34 · **Commits**: 1822
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 16 | 46 | 34 | 61 | 33 | 903 |
-| last60d | 2026-08-18 | 30 | 85 | 35 | 153 | 36 | 1259 |
-| 90d | 2026-07-19 | 35 | 101 | 35 | 210 | 37 | 1335 |
-| last180d | 2026-04-20 | 41 | 121 | 35 | 404 | 41 | 1423 |
-| 360d | 2025-10-22 | 51 | 155 | 35 | 493 | 42 | 1530 |
-| last720d | 2024-10-27 | 51 | 155 | 35 | 493 | 42 | 1762 |
+| 30d | 2026-09-18 | 16 | 57 | 18 | 72 | 24 | 949 |
+| last60d | 2026-08-19 | 29 | 97 | 19 | 155 | 28 | 1305 |
+| 90d | 2026-07-20 | 35 | 113 | 19 | 221 | 29 | 1381 |
+| last180d | 2026-04-21 | 41 | 133 | 19 | 413 | 33 | 1469 |
+| 360d | 2025-10-23 | 51 | 167 | 19 | 504 | 34 | 1576 |
+| last720d | 2024-10-28 | 51 | 167 | 19 | 504 | 34 | 1822 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:00:06Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:07:28Z._
