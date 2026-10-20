@@ -32,7 +32,7 @@ x install caveman
 
 - **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 30 existing vulnerabilities detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install caveman
 
 ## 流行度
 
-- **Star**: 113,511 · **Fork**: 6,570 · **开放 issue**: 543 · **贡献者**: 112
+- **Star**: 113,713 · **Fork**: 6,578 · **开放 issue**: 547 · **贡献者**: 112
 
 ## 累计统计
 
-- **发布数**: 51 · **已合并 PR**: 167 · **开放 PR**: 20 · **已关闭 issue**: 504 · **开放 issue**: 39 · **提交数**: 1822
+- **发布数**: 51 · **已合并 PR**: 167 · **开放 PR**: 24 · **已关闭 issue**: 504 · **开放 issue**: 43 · **提交数**: 1822
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 16 | 57 | 19 | 71 | 29 | 886 |
-| last60d | 2026-08-20 | 29 | 97 | 20 | 154 | 33 | 1205 |
-| 90d | 2026-07-21 | 35 | 113 | 20 | 220 | 34 | 1374 |
-| last180d | 2026-04-22 | 41 | 133 | 20 | 408 | 37 | 1469 |
-| 360d | 2025-10-24 | 51 | 167 | 20 | 504 | 39 | 1576 |
-| last720d | 2024-10-29 | 51 | 167 | 20 | 504 | 39 | 1822 |
+| 30d | 2026-09-20 | 16 | 57 | 23 | 70 | 32 | 886 |
+| last60d | 2026-08-21 | 27 | 95 | 24 | 153 | 37 | 1205 |
+| 90d | 2026-07-22 | 35 | 113 | 24 | 217 | 38 | 1374 |
+| last180d | 2026-04-23 | 41 | 133 | 24 | 405 | 41 | 1469 |
+| 360d | 2025-10-25 | 51 | 167 | 24 | 504 | 43 | 1576 |
+| last720d | 2024-10-30 | 51 | 167 | 24 | 504 | 43 | 1822 |
 
 ## Release 资产
 
@@ -82,4 +82,4 @@ caveman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261019.yml` · 2026-10-19T05:24:36Z._
+_数据快照: `data/card/261020.yml` · 2026-10-20T05:27:57Z._
