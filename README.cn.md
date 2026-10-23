@@ -30,9 +30,9 @@ x install caveman
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
+- **Code-Review** (3/10) — Found 4/11 approved changesets -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 30 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 36 existing vulnerabilities detected
 
 ## 源代码
 
@@ -42,28 +42,28 @@ x install caveman
 
 ## 发布
 
-- **最新版本**: `v4.0.1` (2026-10-13)
-- **最近提交**: 2026-10-17
+- **最新版本**: `bin-v4.0.2` (2026-10-23)
+- **最近提交**: 2026-10-23
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 114,179 · **Fork**: 6,582 · **开放 issue**: 549 · **贡献者**: 112
+- **Star**: 114,460 · **Fork**: 6,595 · **开放 issue**: 557 · **贡献者**: 112
 
 ## 累计统计
 
-- **发布数**: 51 · **已合并 PR**: 167 · **开放 PR**: 32 · **已关闭 issue**: 505 · **开放 issue**: 44 · **提交数**: 1822
+- **发布数**: 52 · **已合并 PR**: 167 · **开放 PR**: 37 · **已关闭 issue**: 505 · **开放 issue**: 52 · **提交数**: 1823
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 16 | 55 | 31 | 61 | 32 | 886 |
-| last60d | 2026-08-23 | 27 | 92 | 32 | 150 | 38 | 1205 |
-| 90d | 2026-07-24 | 35 | 113 | 32 | 214 | 39 | 1374 |
-| last180d | 2026-04-25 | 41 | 133 | 32 | 404 | 42 | 1469 |
-| 360d | 2025-10-27 | 51 | 167 | 32 | 505 | 44 | 1576 |
-| last720d | 2024-11-01 | 51 | 167 | 32 | 505 | 44 | 1822 |
+| 30d | 2026-09-23 | 17 | 55 | 36 | 60 | 39 | 887 |
+| last60d | 2026-08-24 | 25 | 91 | 37 | 148 | 46 | 1206 |
+| 90d | 2026-07-25 | 36 | 113 | 37 | 214 | 47 | 1375 |
+| last180d | 2026-04-26 | 42 | 133 | 37 | 404 | 50 | 1470 |
+| 360d | 2025-10-28 | 52 | 167 | 37 | 505 | 52 | 1577 |
+| last720d | 2024-11-02 | 52 | 167 | 37 | 505 | 52 | 1823 |
 
 ## Release 资产
 
@@ -72,6 +72,10 @@ x install caveman
 | [caveman-browser-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.0.1/caveman-browser-1.3.0.zip) | 175.6 KiB | `other` |
 | [caveman-browser-firefox-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.0.1/caveman-browser-firefox-1.3.0.zip) | 175.9 KiB | `other` |
 | [caveman.skill](https://github.com/JuliusBrussee/caveman/releases/download/v4.0.1/caveman.skill) | 4.3 KiB | `other` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/caveman) 上共有 **2** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -82,4 +86,4 @@ caveman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:27:27Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:24:38Z._

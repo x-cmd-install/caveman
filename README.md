@@ -30,9 +30,9 @@ Overall score: **6.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
+- **Code-Review** (3/10) — Found 4/11 approved changesets -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 30 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 36 existing vulnerabilities detected
 
 ## Source
 
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v4.0.1` (2026-10-13)
-- **Last commit**: 2026-10-17
+- **Latest**: `bin-v4.0.2` (2026-10-23)
+- **Last commit**: 2026-10-23
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 114,179 · **Forks**: 6,582 · **Open issues**: 549 · **Contributors**: 112
+- **Stars**: 114,460 · **Forks**: 6,595 · **Open issues**: 557 · **Contributors**: 112
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 167 · **Open PRs**: 32 · **Closed issues**: 505 · **Open issues**: 44 · **Commits**: 1822
+- **Releases**: 52 · **Merged PRs**: 167 · **Open PRs**: 37 · **Closed issues**: 505 · **Open issues**: 52 · **Commits**: 1823
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 16 | 55 | 31 | 61 | 32 | 886 |
-| last60d | 2026-08-23 | 27 | 92 | 32 | 150 | 38 | 1205 |
-| 90d | 2026-07-24 | 35 | 113 | 32 | 214 | 39 | 1374 |
-| last180d | 2026-04-25 | 41 | 133 | 32 | 404 | 42 | 1469 |
-| 360d | 2025-10-27 | 51 | 167 | 32 | 505 | 44 | 1576 |
-| last720d | 2024-11-01 | 51 | 167 | 32 | 505 | 44 | 1822 |
+| 30d | 2026-09-23 | 17 | 55 | 36 | 60 | 39 | 887 |
+| last60d | 2026-08-24 | 25 | 91 | 37 | 148 | 46 | 1206 |
+| 90d | 2026-07-25 | 36 | 113 | 37 | 214 | 47 | 1375 |
+| last180d | 2026-04-26 | 42 | 133 | 37 | 404 | 50 | 1470 |
+| 360d | 2025-10-28 | 52 | 167 | 37 | 505 | 52 | 1577 |
+| last720d | 2024-11-02 | 52 | 167 | 37 | 505 | 52 | 1823 |
 
 ## Release assets
 
@@ -72,6 +72,10 @@ Lowest-scoring checks:
 | [caveman-browser-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.0.1/caveman-browser-1.3.0.zip) | 175.6 KiB | `other` |
 | [caveman-browser-firefox-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.0.1/caveman-browser-firefox-1.3.0.zip) | 175.9 KiB | `other` |
 | [caveman.skill](https://github.com/JuliusBrussee/caveman/releases/download/v4.0.1/caveman.skill) | 4.3 KiB | `other` |
+
+## Distribution status
+
+Reported by **2** distros on [repology.org](https://repology.org/project/caveman). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -82,4 +86,4 @@ Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:27:26Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:24:38Z._
