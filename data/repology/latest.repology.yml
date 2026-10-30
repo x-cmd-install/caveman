@@ -4,7 +4,7 @@
   visiblename: caveman
   version: 1.9.1
   origversion: 1.9.1-1
-  status: outdated
+  status: newest
   summary: Make your AI coding agent talk like a caveman. Same answers, 65% fewer output tokens.
   maintainers:
     - milavandeleemput@aur
@@ -15,7 +15,7 @@
   visiblename: caveman
   version: 4.0.1
   origversion: null
-  status: newest
+  status: untrusted
   summary: Cuts 65% of tokens by talking like caveman
   maintainers:
     - t2@t2-project.org
