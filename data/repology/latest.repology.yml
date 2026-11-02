@@ -7,7 +7,7 @@
   status: newest
   summary: Make your AI coding agent talk like a caveman. Same answers, 65% fewer output tokens.
   maintainers:
-    - milavandeleemput@aur
+    - fallback-mnt-aur@repology
   licenses:
     - MIT
 - repo: t2
