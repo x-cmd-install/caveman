@@ -14,14 +14,14 @@ x install caveman
 
 ## 代码洞察
 
-合计: **341,468** 行代码（覆盖前 5 种语言、共 **1386** 个文件）。
+合计: **341,471** 行代码（覆盖前 5 种语言、共 **1386** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Go | 161,271 | 19,510 | 11,150 | 665 |
 | JavaScript | 69,365 | 7,372 | 5,811 | 375 |
 | TypeScript | 36,824 | 4,361 | 1,980 | 81 |
-| Json | 27,373 | 0 | 1 | 158 |
+| Json | 27,376 | 0 | 1 | 158 |
 | Python | 26,310 | 1,380 | 4,492 | 107 |
 
 ## OpenSSF Scorecard 评分
@@ -30,9 +30,9 @@ x install caveman
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/12 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/13 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 50 existing vulnerabilities detected
 
 ## 源代码
 
@@ -42,36 +42,36 @@ x install caveman
 
 ## 发布
 
-- **最新版本**: `bin-v4.1.0` (2026-11-07)
-- **最近提交**: 2026-11-07
+- **最新版本**: `v4.1.0` (2026-11-08)
+- **最近提交**: 2026-11-08
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 118,048 · **Fork**: 6,868 · **开放 issue**: 626 · **贡献者**: 132
+- **Star**: 118,201 · **Fork**: 6,872 · **开放 issue**: 626 · **贡献者**: 132
 
 ## 累计统计
 
-- **发布数**: 53 · **已合并 PR**: 187 · **开放 PR**: 16 · **已关闭 issue**: 576 · **开放 issue**: 50 · **提交数**: 2024
+- **发布数**: 56 · **已合并 PR**: 188 · **开放 PR**: 17 · **已关闭 issue**: 576 · **开放 issue**: 50 · **提交数**: 2026
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 9 | 40 | 14 | 88 | 33 | 469 |
-| last60d | 2026-09-08 | 20 | 91 | 16 | 168 | 44 | 1219 |
-| 90d | 2026-08-09 | 36 | 124 | 16 | 260 | 45 | 1531 |
-| last180d | 2026-05-11 | 40 | 147 | 16 | 449 | 48 | 1615 |
-| 360d | 2025-11-12 | 53 | 187 | 16 | 576 | 50 | 1752 |
-| last720d | 2024-11-17 | 53 | 187 | 16 | 576 | 50 | 2024 |
+| 30d | 2026-10-09 | 9 | 41 | 15 | 85 | 31 | 196 |
+| last60d | 2026-09-09 | 23 | 92 | 17 | 165 | 43 | 1144 |
+| 90d | 2026-08-10 | 39 | 125 | 17 | 259 | 45 | 1494 |
+| last180d | 2026-05-12 | 43 | 148 | 17 | 447 | 47 | 1612 |
+| 360d | 2025-11-13 | 56 | 188 | 17 | 576 | 50 | 1753 |
+| last720d | 2024-11-18 | 56 | 188 | 17 | 576 | 50 | 2026 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [caveman-browser-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.0.1/caveman-browser-1.3.0.zip) | 175.6 KiB | `other` |
-| [caveman-browser-firefox-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.0.1/caveman-browser-firefox-1.3.0.zip) | 175.9 KiB | `other` |
-| [caveman.skill](https://github.com/JuliusBrussee/caveman/releases/download/v4.0.1/caveman.skill) | 4.3 KiB | `other` |
+| [caveman-browser-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.1.0/caveman-browser-1.3.0.zip) | 175.6 KiB | `other` |
+| [caveman-browser-firefox-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.1.0/caveman-browser-firefox-1.3.0.zip) | 175.9 KiB | `other` |
+| [caveman.skill](https://github.com/JuliusBrussee/caveman/releases/download/v4.1.0/caveman.skill) | 4.2 KiB | `other` |
 
 ## 发行版状态
 
@@ -86,4 +86,4 @@ caveman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261107.yml` · 2026-11-07T06:48:36Z._
+_数据快照: `data/card/261108.yml` · 2026-11-08T06:42:10Z._
