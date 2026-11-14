@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 179862,
       "digest": "sha256:b56fe25d304e66a176f3489785fd9c170ed22d1e8b913cd4ef1ee0870d1703bd",
-      "download_count": 333,
+      "download_count": 403,
       "created_at": "2026-11-08T04:17:27Z",
       "updated_at": "2026-11-08T04:17:28Z",
       "browser_download_url": "https://github.com/JuliusBrussee/caveman/releases/download/v4.1.0/caveman-browser-1.3.0.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 180101,
       "digest": "sha256:e1eb4488e6a440f59e3d829a21c00501a1f7c17fda51505a61af7a335446800f",
-      "download_count": 71,
+      "download_count": 79,
       "created_at": "2026-11-08T04:17:27Z",
       "updated_at": "2026-11-08T04:17:28Z",
       "browser_download_url": "https://github.com/JuliusBrussee/caveman/releases/download/v4.1.0/caveman-browser-firefox-1.3.0.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4254,
       "digest": "sha256:752bf1f35ed8afdb985a651a94cef949ba3a4cbad297543e4cfca3c20de11c3f",
-      "download_count": 836,
+      "download_count": 988,
       "created_at": "2026-11-08T04:17:27Z",
       "updated_at": "2026-11-08T04:17:28Z",
       "browser_download_url": "https://github.com/JuliusBrussee/caveman/releases/download/v4.1.0/caveman.skill"
