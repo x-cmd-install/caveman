@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Code-Review** (1/10) — Found 2/16 approved changesets -- score normalized to 1
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 57 existing vulnerabilities detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 119,517 · **Forks**: 6,950 · **Open issues**: 637 · **Contributors**: 134
+- **Stars**: 119,744 · **Forks**: 6,978 · **Open issues**: 638 · **Contributors**: 134
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 192 · **Open PRs**: 26 · **Closed issues**: 578 · **Open issues**: 59 · **Commits**: 2040
+- **Releases**: 56 · **Merged PRs**: 194 · **Open PRs**: 28 · **Closed issues**: 578 · **Open issues**: 60 · **Commits**: 2042
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 5 | 29 | 22 | 76 | 37 | 206 |
-| last60d | 2026-09-14 | 23 | 94 | 25 | 159 | 50 | 1154 |
-| 90d | 2026-08-15 | 37 | 124 | 26 | 250 | 54 | 1504 |
-| last180d | 2026-05-17 | 42 | 152 | 26 | 437 | 56 | 1622 |
-| 360d | 2025-11-18 | 56 | 192 | 26 | 578 | 59 | 1763 |
-| last720d | 2024-11-23 | 56 | 192 | 26 | 578 | 59 | 2040 |
+| 30d | 2026-10-15 | 5 | 30 | 23 | 75 | 36 | 208 |
+| last60d | 2026-09-15 | 23 | 93 | 27 | 153 | 51 | 1156 |
+| 90d | 2026-08-16 | 37 | 126 | 28 | 246 | 55 | 1506 |
+| last180d | 2026-05-18 | 42 | 154 | 28 | 435 | 57 | 1624 |
+| 360d | 2025-11-19 | 56 | 194 | 28 | 578 | 60 | 1765 |
+| last720d | 2024-11-24 | 56 | 194 | 28 | 578 | 60 | 2042 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:40:11Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:23:54Z._
