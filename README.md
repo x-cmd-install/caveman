@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 120,544 · **Forks**: 7,041 · **Open issues**: 639 · **Contributors**: 134
+- **Stars**: 120,881 · **Forks**: 7,062 · **Open issues**: 641 · **Contributors**: 134
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 195 · **Open PRs**: 30 · **Closed issues**: 578 · **Open issues**: 61 · **Commits**: 2043
+- **Releases**: 56 · **Merged PRs**: 195 · **Open PRs**: 32 · **Closed issues**: 578 · **Open issues**: 63 · **Commits**: 2043
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 5 | 27 | 24 | 67 | 35 | 146 |
-| last60d | 2026-09-17 | 21 | 86 | 29 | 146 | 52 | 1109 |
-| 90d | 2026-08-18 | 35 | 125 | 30 | 238 | 55 | 1407 |
-| last180d | 2026-05-20 | 42 | 155 | 30 | 430 | 58 | 1623 |
-| 360d | 2025-11-21 | 56 | 195 | 30 | 578 | 61 | 1766 |
-| last720d | 2024-11-26 | 56 | 195 | 30 | 578 | 61 | 2043 |
+| 30d | 2026-10-18 | 5 | 27 | 26 | 65 | 36 | 146 |
+| last60d | 2026-09-18 | 21 | 85 | 31 | 146 | 53 | 1109 |
+| 90d | 2026-08-19 | 34 | 125 | 32 | 229 | 57 | 1407 |
+| last180d | 2026-05-21 | 42 | 155 | 32 | 428 | 60 | 1623 |
+| 360d | 2025-11-22 | 56 | 195 | 32 | 578 | 63 | 1766 |
+| last720d | 2024-11-27 | 56 | 195 | 32 | 578 | 63 | 2043 |
 
 ## Release assets
 
@@ -72,10 +72,6 @@ Lowest-scoring checks:
 | [caveman-browser-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.1.0/caveman-browser-1.3.0.zip) | 175.6 KiB | `other` |
 | [caveman-browser-firefox-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.1.0/caveman-browser-firefox-1.3.0.zip) | 175.9 KiB | `other` |
 | [caveman.skill](https://github.com/JuliusBrussee/caveman/releases/download/v4.1.0/caveman.skill) | 4.2 KiB | `other` |
-
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/caveman). **1** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -86,4 +82,4 @@ Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:36:55Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:21:23Z._

@@ -48,22 +48,22 @@ x install caveman
 
 ## 流行度
 
-- **Star**: 120,544 · **Fork**: 7,041 · **开放 issue**: 639 · **贡献者**: 134
+- **Star**: 120,881 · **Fork**: 7,062 · **开放 issue**: 641 · **贡献者**: 134
 
 ## 累计统计
 
-- **发布数**: 56 · **已合并 PR**: 195 · **开放 PR**: 30 · **已关闭 issue**: 578 · **开放 issue**: 61 · **提交数**: 2043
+- **发布数**: 56 · **已合并 PR**: 195 · **开放 PR**: 32 · **已关闭 issue**: 578 · **开放 issue**: 63 · **提交数**: 2043
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 5 | 27 | 24 | 67 | 35 | 146 |
-| last60d | 2026-09-17 | 21 | 86 | 29 | 146 | 52 | 1109 |
-| 90d | 2026-08-18 | 35 | 125 | 30 | 238 | 55 | 1407 |
-| last180d | 2026-05-20 | 42 | 155 | 30 | 430 | 58 | 1623 |
-| 360d | 2025-11-21 | 56 | 195 | 30 | 578 | 61 | 1766 |
-| last720d | 2024-11-26 | 56 | 195 | 30 | 578 | 61 | 2043 |
+| 30d | 2026-10-18 | 5 | 27 | 26 | 65 | 36 | 146 |
+| last60d | 2026-09-18 | 21 | 85 | 31 | 146 | 53 | 1109 |
+| 90d | 2026-08-19 | 34 | 125 | 32 | 229 | 57 | 1407 |
+| last180d | 2026-05-21 | 42 | 155 | 32 | 428 | 60 | 1623 |
+| 360d | 2025-11-22 | 56 | 195 | 32 | 578 | 63 | 1766 |
+| last720d | 2024-11-27 | 56 | 195 | 32 | 578 | 63 | 2043 |
 
 ## Release 资产
 
@@ -72,10 +72,6 @@ x install caveman
 | [caveman-browser-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.1.0/caveman-browser-1.3.0.zip) | 175.6 KiB | `other` |
 | [caveman-browser-firefox-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.1.0/caveman-browser-firefox-1.3.0.zip) | 175.9 KiB | `other` |
 | [caveman.skill](https://github.com/JuliusBrussee/caveman/releases/download/v4.1.0/caveman.skill) | 4.2 KiB | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/caveman) 上共有 **2** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -86,4 +82,4 @@ caveman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:36:58Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T10:21:24Z._
