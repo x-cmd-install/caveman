@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
 
 [![x-cmd/install — caveman Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/caveman.svg?lang=zh)](https://x-cmd.com/install/caveman)
 
@@ -14,15 +14,15 @@ x install caveman
 
 ## 代码洞察
 
-合计: **342,088** 行代码（覆盖前 5 种语言、共 **1389** 个文件）。
+合计: **342,061** 行代码（覆盖前 5 种语言、共 **1389** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 161,439 | 19,562 | 11,177 | 666 |
-| JavaScript | 69,479 | 7,374 | 5,820 | 376 |
-| TypeScript | 36,824 | 4,361 | 1,980 | 81 |
+| Go | 161,439 | 19,556 | 11,177 | 666 |
+| JavaScript | 69,471 | 7,374 | 5,820 | 376 |
+| TypeScript | 36,805 | 4,359 | 1,978 | 81 |
 | Json | 27,376 | 0 | 1 | 158 |
-| Python | 26,645 | 1,390 | 4,521 | 108 |
+| Python | 26,645 | 1,392 | 4,521 | 108 |
 
 ## OpenSSF Scorecard 评分
 
@@ -30,9 +30,9 @@ x install caveman
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 2/16 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 1/21 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 58 existing vulnerabilities detected
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install caveman
 ## 发布
 
 - **最新版本**: `v4.1.0` (2026-11-08)
-- **最近提交**: 2026-11-16
+- **最近提交**: 2026-11-17
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 120,881 · **Fork**: 7,062 · **开放 issue**: 641 · **贡献者**: 134
+- **Star**: 121,403 · **Fork**: 7,099 · **开放 issue**: 644 · **贡献者**: 133
 
 ## 累计统计
 
-- **发布数**: 56 · **已合并 PR**: 195 · **开放 PR**: 32 · **已关闭 issue**: 578 · **开放 issue**: 63 · **提交数**: 2043
+- **发布数**: 56 · **已合并 PR**: 195 · **开放 PR**: 39 · **已关闭 issue**: 578 · **开放 issue**: 66 · **提交数**: 2053
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 5 | 27 | 26 | 65 | 36 | 146 |
-| last60d | 2026-09-18 | 21 | 85 | 31 | 146 | 53 | 1109 |
-| 90d | 2026-08-19 | 34 | 125 | 32 | 229 | 57 | 1407 |
-| last180d | 2026-05-21 | 42 | 155 | 32 | 428 | 60 | 1623 |
-| 360d | 2025-11-22 | 56 | 195 | 32 | 578 | 63 | 1766 |
-| last720d | 2024-11-27 | 56 | 195 | 32 | 578 | 63 | 2043 |
+| 30d | 2026-10-20 | 5 | 27 | 31 | 59 | 37 | 156 |
+| last60d | 2026-09-20 | 21 | 85 | 38 | 144 | 55 | 1119 |
+| 90d | 2026-08-21 | 32 | 123 | 39 | 227 | 60 | 1417 |
+| last180d | 2026-05-23 | 42 | 155 | 39 | 423 | 63 | 1633 |
+| 360d | 2025-11-24 | 56 | 195 | 39 | 578 | 66 | 1776 |
+| last720d | 2024-11-29 | 56 | 195 | 39 | 578 | 66 | 2053 |
 
 ## Release 资产
 
@@ -72,6 +72,10 @@ x install caveman
 | [caveman-browser-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.1.0/caveman-browser-1.3.0.zip) | 175.6 KiB | `other` |
 | [caveman-browser-firefox-1.3.0.zip](https://github.com/JuliusBrussee/caveman/releases/download/v4.1.0/caveman-browser-firefox-1.3.0.zip) | 175.9 KiB | `other` |
 | [caveman.skill](https://github.com/JuliusBrussee/caveman/releases/download/v4.1.0/caveman.skill) | 4.2 KiB | `other` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/caveman) 上共有 **3** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -82,4 +86,4 @@ caveman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T10:21:24Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T09:47:27Z._
