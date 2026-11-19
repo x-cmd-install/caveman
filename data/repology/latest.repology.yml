@@ -4,18 +4,34 @@
   visiblename: caveman
   version: 1.9.1
   origversion: 1.9.1-1
-  status: newest
+  status: outdated
   summary: Make your AI coding agent talk like a caveman. Same answers, 65% fewer output tokens.
   maintainers:
     - fallback-mnt-aur@repology
   licenses:
     - MIT
+- repo: aur
+  srcname: caveman-bin
+  binname: caveman-bin
+  visiblename: caveman-bin
+  version: 4.1.0
+  origversion: 4.1.0-1
+  status: newest
+  summary: Make AI coding agents talk like a caveman, plus local context compression and metering (CLI + runtime binaries)
+  maintainers:
+    - pen-pal@aur
+  licenses:
+    - Apache-2.0
+    - BSD-2-Clause
+    - BSD-3-Clause
+    - MIT
+    - OFL-1.1 OR GPL-2.0-or-later WITH Font-exception-2.0
 - repo: t2
   srcname: caveman
   visiblename: caveman
   version: 4.0.1
   origversion: null
-  status: untrusted
+  status: outdated
   summary: Cuts 65% of tokens by talking like caveman
   maintainers:
     - t2@t2-project.org
