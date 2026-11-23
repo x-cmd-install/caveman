@@ -14,8 +14,8 @@
   srcname: caveman-bin
   binname: caveman-bin
   visiblename: caveman-bin
-  version: 4.1.0
-  origversion: 4.1.0-1
+  version: 4.2.0
+  origversion: 4.2.0-1
   status: newest
   summary: Make AI coding agents talk like a caveman, plus local context compression and metering (CLI + runtime binaries)
   maintainers:
@@ -29,9 +29,9 @@
 - repo: t2
   srcname: caveman
   visiblename: caveman
-  version: 4.0.1
+  version: 4.2.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Cuts 65% of tokens by talking like caveman
   maintainers:
     - t2@t2-project.org
