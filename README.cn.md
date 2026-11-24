@@ -30,9 +30,9 @@ x install caveman
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/21 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/23 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 56 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 57 existing vulnerabilities detected
 
 ## 源代码
 
@@ -43,26 +43,26 @@ x install caveman
 ## 发布
 
 - **最新版本**: `v4.2.0` (2026-11-22)
-- **最近提交**: 2026-11-23
+- **最近提交**: 2026-11-24
 
 ## 流行度
 
-- **Star**: 122,268 · **Fork**: 7,138 · **开放 issue**: 649 · **贡献者**: 132
+- **Star**: 122,533 · **Fork**: 7,152 · **开放 issue**: 662 · **贡献者**: 132
 
 ## 累计统计
 
-- **发布数**: 59 · **已合并 PR**: 196 · **开放 PR**: 42 · **已关闭 issue**: 606 · **开放 issue**: 43 · **提交数**: 2063
+- **发布数**: 59 · **已合并 PR**: 196 · **开放 PR**: 47 · **已关闭 issue**: 606 · **开放 issue**: 56 · **提交数**: 2065
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 7 | 27 | 34 | 64 | 14 | 111 |
-| last60d | 2026-09-24 | 24 | 86 | 41 | 159 | 30 | 1008 |
-| 90d | 2026-08-25 | 32 | 122 | 42 | 248 | 37 | 1348 |
-| last180d | 2026-05-27 | 45 | 158 | 42 | 440 | 40 | 1634 |
-| 360d | 2025-11-28 | 59 | 196 | 42 | 606 | 43 | 1783 |
-| last720d | 2024-12-03 | 59 | 196 | 42 | 606 | 43 | 2063 |
+| 30d | 2026-10-25 | 7 | 25 | 36 | 61 | 26 | 113 |
+| last60d | 2026-09-25 | 24 | 85 | 46 | 156 | 43 | 1010 |
+| 90d | 2026-08-26 | 32 | 122 | 47 | 245 | 50 | 1350 |
+| last180d | 2026-05-28 | 45 | 158 | 47 | 437 | 53 | 1636 |
+| 360d | 2025-11-29 | 59 | 196 | 47 | 606 | 56 | 1785 |
+| last720d | 2024-12-04 | 59 | 196 | 47 | 606 | 56 | 2065 |
 
 ## 发行版状态
 
@@ -77,4 +77,4 @@ caveman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T10:22:15Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T11:01:45Z._

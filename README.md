@@ -30,9 +30,9 @@ Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/21 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/23 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 56 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 57 existing vulnerabilities detected
 
 ## Source
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.2.0` (2026-11-22)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 
 ## Popularity
 
-- **Stars**: 122,268 · **Forks**: 7,138 · **Open issues**: 649 · **Contributors**: 132
+- **Stars**: 122,533 · **Forks**: 7,152 · **Open issues**: 662 · **Contributors**: 132
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 196 · **Open PRs**: 42 · **Closed issues**: 606 · **Open issues**: 43 · **Commits**: 2063
+- **Releases**: 59 · **Merged PRs**: 196 · **Open PRs**: 47 · **Closed issues**: 606 · **Open issues**: 56 · **Commits**: 2065
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 7 | 27 | 34 | 64 | 14 | 111 |
-| last60d | 2026-09-24 | 24 | 86 | 41 | 159 | 30 | 1008 |
-| 90d | 2026-08-25 | 32 | 122 | 42 | 248 | 37 | 1348 |
-| last180d | 2026-05-27 | 45 | 158 | 42 | 440 | 40 | 1634 |
-| 360d | 2025-11-28 | 59 | 196 | 42 | 606 | 43 | 1783 |
-| last720d | 2024-12-03 | 59 | 196 | 42 | 606 | 43 | 2063 |
+| 30d | 2026-10-25 | 7 | 25 | 36 | 61 | 26 | 113 |
+| last60d | 2026-09-25 | 24 | 85 | 46 | 156 | 43 | 1010 |
+| 90d | 2026-08-26 | 32 | 122 | 47 | 245 | 50 | 1350 |
+| last180d | 2026-05-28 | 45 | 158 | 47 | 437 | 53 | 1636 |
+| 360d | 2025-11-29 | 59 | 196 | 47 | 606 | 56 | 1785 |
+| last720d | 2024-12-04 | 59 | 196 | 47 | 606 | 56 | 2065 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:22:13Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:01:43Z._
