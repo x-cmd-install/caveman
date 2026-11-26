@@ -26,7 +26,7 @@ Total: **366,589** lines of code across **1445** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.5 / 10**
+Overall score: **6.8 / 10**
 
 Lowest-scoring checks:
 
@@ -43,30 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.2.0` (2026-11-22)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-26
 
 ## Popularity
 
-- **Stars**: 122,715 · **Forks**: 7,165 · **Open issues**: 662 · **Contributors**: 132
+- **Stars**: 122,960 · **Forks**: 7,190 · **Open issues**: 664 · **Contributors**: 132
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 196 · **Open PRs**: 47 · **Closed issues**: 606 · **Open issues**: 56 · **Commits**: 2065
+- **Releases**: 59 · **Merged PRs**: 197 · **Open PRs**: 52 · **Closed issues**: 606 · **Open issues**: 58 · **Commits**: 2066
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 7 | 25 | 36 | 56 | 25 | 113 |
-| last60d | 2026-09-26 | 24 | 84 | 46 | 155 | 43 | 1010 |
-| 90d | 2026-08-27 | 32 | 122 | 47 | 241 | 50 | 1350 |
-| last180d | 2026-05-29 | 45 | 158 | 47 | 429 | 53 | 1636 |
-| 360d | 2025-11-30 | 59 | 196 | 47 | 606 | 56 | 1785 |
-| last720d | 2024-12-05 | 59 | 196 | 47 | 606 | 56 | 2065 |
-
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/caveman). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+| 30d | 2026-10-27 | 7 | 26 | 41 | 56 | 26 | 114 |
+| last60d | 2026-09-27 | 24 | 85 | 51 | 154 | 45 | 1011 |
+| 90d | 2026-08-28 | 32 | 123 | 52 | 239 | 52 | 1351 |
+| last180d | 2026-05-30 | 45 | 159 | 52 | 429 | 55 | 1637 |
+| 360d | 2025-12-01 | 59 | 197 | 52 | 606 | 58 | 1786 |
+| last720d | 2024-12-06 | 59 | 197 | 52 | 606 | 58 | 2066 |
 
 ## Improve this data
 
@@ -77,4 +73,4 @@ Install metadata for caveman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:12:23Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:03:45Z._
