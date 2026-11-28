@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.2.0"
   latestRelease: "v4.2.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:05:44Z
+  collectedAt: 2026-11-28T09:06:03Z
 timeline:
   created: 2026-04-04
   lastCommit: 2026-11-26
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-11-22
   lastPrerelease: 
 popularity:
-  star: 123186
-  watcher: 265
-  fork: 7209
+  star: 123377
+  watcher: 263
+  fork: 7218
   release: 59
-  contributor: 132
-  pullRequest: 846
-  issue: 664
+  contributor: 133
+  pullRequest: 850
+  issue: 666
 language:
   Go: 8005030
   JavaScript: 4124116
@@ -36,63 +36,63 @@ language:
 totalBytes: 16093125
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 7
-    mergedPR: 26
-    openPR: 45
-    closedIssue: 54
+    mergedPR: 25
+    openPR: 47
+    closedIssue: 52
     openIssue: 27
     commit: 114
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 24
     mergedPR: 85
-    openPR: 56
-    closedIssue: 152
-    openIssue: 46
+    openPR: 59
+    closedIssue: 153
+    openIssue: 47
     commit: 1011
   last90d:
-    since: 2026-08-29
-    release: 32
-    mergedPR: 119
-    openPR: 57
-    closedIssue: 238
-    openIssue: 53
+    since: 2026-08-30
+    release: 30
+    mergedPR: 116
+    openPR: 60
+    closedIssue: 239
+    openIssue: 54
     commit: 1351
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 45
     mergedPR: 159
-    openPR: 57
-    closedIssue: 425
-    openIssue: 56
+    openPR: 60
+    closedIssue: 423
+    openIssue: 57
     commit: 1637
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 59
     mergedPR: 197
-    openPR: 57
-    closedIssue: 605
-    openIssue: 59
+    openPR: 60
+    closedIssue: 606
+    openIssue: 60
     commit: 1786
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 59
     mergedPR: 197
-    openPR: 57
-    closedIssue: 605
-    openIssue: 59
+    openPR: 60
+    closedIssue: 606
+    openIssue: 60
     commit: 2066
 total:
   release: 59
   mergedPR: 197
-  openPR: 57
-  closedIssue: 605
-  openIssue: 59
+  openPR: 60
+  closedIssue: 606
+  openIssue: 60
   commit: 2066
 ---
 path: /home/runner/.x-repo/github.com/JuliusBrussee/caveman
-collectedAt: 2026-11-27T10:05:49Z
+collectedAt: 2026-11-28T09:06:07Z
 loc:
   Go:
     code: 179565
